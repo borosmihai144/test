@@ -1,0 +1,2304 @@
+<([A-Z][A-Z0-9:-_]*)\b[^>]*>(.*?)</\1>	$2	1	1	0
+<([A-Z][A-Z0-9:-_]*)\b[^>]*>(.*?)</\1>	$2	1	1	0
+<([A-Z][A-Z0-9:-_]*)\b[^>]*>(.*?)</\1>	$2	1	1	0
+<([A-Z][A-Z0-9:-_]*)\b[^>]*>(.*?)</\1>	$2	1	1	0
+<([A-Z][A-Z0-9:-_]*)\b[^>]*>(.*?)</\1>	$2	1	1	0
+(\p{Zs}+)\.\.\.	...	1	1	0
+(\p{Zs}+)\.$	.	1	1	0
+(\p{Zs}+)\.(\p{Zs}+)$	.	1	1	0
+(\p{Zs})\.	 imt@.	1	1	0
+>	> 	1	1	0
+&lt;	<	1	1	0
+&gt;	>	1	1	0
+&amp;	&	1	1	0
+&nbsp;	 	1	1	0
+&nbsp	 	1	1	0
+\t	 	1	1	0
+&thinsp;	 	1	1	0
+&wj;		1	1	0
+&dash;	–	1	1	0
+&emdash;	—	1	1	0
+&endash;	–	1	1	0
+&mdash;	—	1	1	0
+&minus;	−	1	1	0
+&nbhy;	‑	1	1	0
+&ndash;	–	1	1	0
+&shy;	­	1	1	0
+&#0133;	...	1	1	0
+&#0145;	‘	1	1	0
+&#0146;	’	1	1	0
+&#0151;	—	1	1	0
+&#0153;	™	1	1	0
+&#0176;	°	1	1	0
+&#0187;	»	1	1	0
+&#039;	'	1	1	0
+&#13;	 	1	1	0
+&#32;	 	1	1	0
+&#34;	"	1	1	0
+&#38;	&	1	1	0
+&#39;	'	1	1	0
+&#62;	>	1	1	0
+&#130;	‚	1	1	0
+&#150;	–	1	1	0
+&#153;	™	1	1	0
+&#160;	 	1	1	0
+&#165;	¥	1	1	0
+&#169;	©	1	1	0
+&#171;	«	1	1	0
+&#173;	­	1	1	0
+&#174;	®	1	1	0
+&#183;	·	1	1	0
+&#187;	»	1	1	0
+&#8194;	 	1	1	0
+&#8195;	 	1	1	0
+&#8201;	 	1	1	0
+&#8208;	‐	1	1	0
+&#8209;	‑	1	1	0
+&#8211;	–	1	1	0
+&#8212;	—	1	1	0
+&#8216;	‘	1	1	0
+&#8217;	’	1	1	0
+&#8218;	‚	1	1	0
+&#8220;	“	1	1	0
+&#8221;	”	1	1	0
+&#8222;	„	1	1	0
+&#8224;	†	1	1	0
+&#8225;	‡	1	1	0
+&#8226;	 	1	1	0
+&#8227;	 	1	1	0
+&#8230;	...	1	1	0
+&#8242;	′	1	1	0
+&#8243;	″	1	1	0
+&#8249;	‹	1	1	0
+&#8250;	›	1	1	0
+&#8482;	™	1	1	0
+&#9;	 	1	1	0
+&#x2002;	 	1	1	0
+&#x2003;	 	1	1	0
+&#x2009;	 	1	1	0
+&#x2010;	‐	1	1	0
+&#x2011;	‑	1	1	0
+&#x2013;	–	1	1	0
+&#x2014;	—	1	1	0
+&#x2018;	‘	1	1	0
+&#x2019;	’	1	1	0
+&#x2022;	 	1	1	0
+&#x2023;	 	1	1	0
+&#x2029;	. 	1	1	0
+&#x2032;	′	1	1	0
+&#x2033;	″	1	1	0
+&#x2039;	‹	1	1	0
+&#x201A;	‚	1	1	0
+&#x201C;	“	1	1	0
+&#x201D;	”	1	1	0
+&#x201E;	«	1	1	0
+&#x203A;	›	1	1	0
+&#xA0;	 	1	1	0
+&#xAB;	«	1	1	0
+&#xBB;	»	1	1	0
+&#x0A;	 	1	1	0
+&rarr;	→	1	1	0
+&acute;	'	1	1	0
+&apos;	'	1	1	0
+&bdquo;	„	1	1	0
+&laquo;	«	1	1	0
+&ldquo;	“	1	1	0
+&lsaquo;	‹	1	1	0
+&lsquo;	‘	1	1	0
+&prime;	′	1	1	0
+&Prime;	″	1	1	0
+&qout;	"	1	1	0
+&quot;	"	1	1	0
+&raquo;	»	1	1	0
+&rdquo;	”	1	1	0
+&rsaquo;	›	1	1	0
+&rsquo;	’	1	1	0
+&sbquo;	‚	1	1	0
+&ge;	≥	1	1	0
+&le;	≤	1	1	0
+&alpha;	Α	1	1	0
+&auml;	Ä	1	1	0
+&beta;	Β	1	1	0
+&bull;	•	1	1	0
+&copy;	©	1	1	0
+&dagger;	†	1	1	0
+&Dagger;	‡	1	1	0
+&deg;	°	1	1	0
+&eacute;	é	1	1	0
+&egrave;	è	1	1	0
+&empty;	∅	1	1	0
+&harr;	↔	1	1	0
+&hellip;	...	1	1	0
+&micro;	µ	1	1	0
+&middot;	·	1	1	0
+&mu;	M	1	1	0
+&OHgr;	Ω	1	1	0
+&ominus;	⊖	1	1	0
+&ordm;	°	1	1	0
+&percnt;	%	1	1	0
+&plus;	+	1	1	0
+&plusmn;	±	1	1	0
+&reg;	®	1	1	0
+&ring;	°	1	1	0
+&sup1;	¹	1	1	0
+&sup2;	²	1	1	0
+&sup3;	³	1	1	0
+&trade;	™	1	1	0
+&Uuml;	Ü	1	1	0
+&#47;	/	1	1	0
+&#35;	#	1	1	0
+&#58;	: 	1	1	0
+\p{Ps}amp\p{Pe}lt;	<	1	1	0
+\p{Ps}amp\p{Pe}gt;	>	1	1	0
+\p{Ps}amp\p{Pe}amp;	&	1	1	0
+\p{Ps}amp\p{Pe}nbsp;	 	1	1	0
+\p{Ps}amp\p{Pe}nbsp	 	1	1	0
+\p{Ps}amp\p{Pe}thinsp;		1	1	0
+\p{Ps}amp\p{Pe}wj;		1	1	0
+\p{Ps}amp\p{Pe}dash;	–	1	1	0
+\p{Ps}amp\p{Pe}emdash;	—	1	1	0
+\p{Ps}amp\p{Pe}endash;	–	1	1	0
+\p{Ps}amp\p{Pe}mdash;	—	1	1	0
+\p{Ps}amp\p{Pe}minus;	−	1	1	0
+\p{Ps}amp\p{Pe}nbhy;	‑	1	1	0
+\p{Ps}amp\p{Pe}ndash;	–	1	1	0
+\p{Ps}amp\p{Pe}shy;	­	1	1	0
+\p{Ps}amp\p{Pe}#0133;	...	1	1	0
+\p{Ps}amp\p{Pe}#0145;	‘	1	1	0
+\p{Ps}amp\p{Pe}#0146;	’	1	1	0
+\p{Ps}amp\p{Pe}#0151;	—	1	1	0
+\p{Ps}amp\p{Pe}#0153;	™	1	1	0
+\p{Ps}amp\p{Pe}#0176;	°	1	1	0
+\p{Ps}amp\p{Pe}#0187;	»	1	1	0
+\p{Ps}amp\p{Pe}#039;	'	1	1	0
+\p{Ps}amp\p{Pe}#13;	 	1	1	0
+\p{Ps}amp\p{Pe}#32;	 	1	1	0
+\p{Ps}amp\p{Pe}#34;	"	1	1	0
+\p{Ps}amp\p{Pe}#38;	&	1	1	0
+\p{Ps}amp\p{Pe}#39;	'	1	1	0
+\p{Ps}amp\p{Pe}#62;	>	1	1	0
+\p{Ps}amp\p{Pe}#130;	‚	1	1	0
+\p{Ps}amp\p{Pe}#150;	–	1	1	0
+\p{Ps}amp\p{Pe}#153;	™	1	1	0
+\p{Ps}amp\p{Pe}#160;	 	1	1	0
+\p{Ps}amp\p{Pe}#165;	¥	1	1	0
+\p{Ps}amp\p{Pe}#169;	©	1	1	0
+\p{Ps}amp\p{Pe}#171;	«	1	1	0
+\p{Ps}amp\p{Pe}#173;	­	1	1	0
+\p{Ps}amp\p{Pe}#174;	®	1	1	0
+\p{Ps}amp\p{Pe}#183;	·	1	1	0
+\p{Ps}amp\p{Pe}#187;	»	1	1	0
+\p{Ps}amp\p{Pe}#8194;	 	1	1	0
+\p{Ps}amp\p{Pe}#8195;	 	1	1	0
+\p{Ps}amp\p{Pe}#8201;	 	1	1	0
+\p{Ps}amp\p{Pe}#8208;	‐	1	1	0
+\p{Ps}amp\p{Pe}#8209;	‑	1	1	0
+\p{Ps}amp\p{Pe}#8211;	–	1	1	0
+\p{Ps}amp\p{Pe}#8212;	—	1	1	0
+\p{Ps}amp\p{Pe}#8216;	‘	1	1	0
+\p{Ps}amp\p{Pe}#8217;	’	1	1	0
+\p{Ps}amp\p{Pe}#8218;	‚	1	1	0
+\p{Ps}amp\p{Pe}#8220;	“	1	1	0
+\p{Ps}amp\p{Pe}#8221;	”	1	1	0
+\p{Ps}amp\p{Pe}#8222;	„	1	1	0
+\p{Ps}amp\p{Pe}#8224;	†	1	1	0
+\p{Ps}amp\p{Pe}#8225;	‡	1	1	0
+\p{Ps}amp\p{Pe}#8226;	 	1	1	0
+\p{Ps}amp\p{Pe}#8227;	 	1	1	0
+\p{Ps}amp\p{Pe}#8230;	...	1	1	0
+\p{Ps}amp\p{Pe}#8242;	′	1	1	0
+\p{Ps}amp\p{Pe}#8243;	″	1	1	0
+\p{Ps}amp\p{Pe}#8249;	‹	1	1	0
+\p{Ps}amp\p{Pe}#8250;	›	1	1	0
+\p{Ps}amp\p{Pe}#8482;	™	1	1	0
+\p{Ps}amp\p{Pe}#9;	 	1	1	0
+\p{Ps}amp\p{Pe}#x2002;	 	1	1	0
+\p{Ps}amp\p{Pe}#x2003;	 	1	1	0
+\p{Ps}amp\p{Pe}#x2009;	 	1	1	0
+\p{Ps}amp\p{Pe}#x2010;	‐	1	1	0
+\p{Ps}amp\p{Pe}#x2011;	‑	1	1	0
+\p{Ps}amp\p{Pe}#x2013;	–	1	1	0
+\p{Ps}amp\p{Pe}#x2014;	—	1	1	0
+\p{Ps}amp\p{Pe}#x2018;	‘	1	1	0
+\p{Ps}amp\p{Pe}#x2019;	’	1	1	0
+\p{Ps}amp\p{Pe}#x2022;	 	1	1	0
+\p{Ps}amp\p{Pe}#x2023;	 	1	1	0
+\p{Ps}amp\p{Pe}#x2029;	. 	1	1	0
+\p{Ps}amp\p{Pe}#x2032;	′	1	1	0
+\p{Ps}amp\p{Pe}#x2033;	″	1	1	0
+\p{Ps}amp\p{Pe}#x2039;	‹	1	1	0
+\p{Ps}amp\p{Pe}#x201A;	‚	1	1	0
+\p{Ps}amp\p{Pe}#x201C;	“	1	1	0
+\p{Ps}amp\p{Pe}#x201D;	”	1	1	0
+\p{Ps}amp\p{Pe}#x201E;	«	1	1	0
+\p{Ps}amp\p{Pe}#x203A;	›	1	1	0
+\p{Ps}amp\p{Pe}#xA0;	 	1	1	0
+\p{Ps}amp\p{Pe}#xAB;	«	1	1	0
+\p{Ps}amp\p{Pe}#xBB;	»	1	1	0
+\p{Ps}amp\p{Pe}#x0A;	 	1	1	0
+\p{Ps}amp\p{Pe}rarr;	→	1	1	0
+\p{Ps}amp\p{Pe}acute;	'	1	1	0
+\p{Ps}amp\p{Pe}apos;	'	1	1	0
+\p{Ps}amp\p{Pe}bdquo;	„	1	1	0
+\p{Ps}amp\p{Pe}laquo;	«	1	1	0
+\p{Ps}amp\p{Pe}ldquo;	“	1	1	0
+\p{Ps}amp\p{Pe}lsaquo;	‹	1	1	0
+\p{Ps}amp\p{Pe}lsquo;	‘	1	1	0
+\p{Ps}amp\p{Pe}prime;	′	1	1	0
+\p{Ps}amp\p{Pe}Prime;	″	1	1	0
+\p{Ps}amp\p{Pe}qout;	"	1	1	0
+\p{Ps}amp\p{Pe}quot;	"	1	1	0
+\p{Ps}amp\p{Pe}raquo;	»	1	1	0
+\p{Ps}amp\p{Pe}rdquo;	”	1	1	0
+\p{Ps}amp\p{Pe}rsaquo;	›	1	1	0
+\p{Ps}amp\p{Pe}rsquo;	’	1	1	0
+\p{Ps}amp\p{Pe}sbquo;	‚	1	1	0
+\p{Ps}amp\p{Pe}ge;	≥	1	1	0
+\p{Ps}amp\p{Pe}le;	≤	1	1	0
+\p{Ps}amp\p{Pe}alpha;	Α	1	1	0
+\p{Ps}amp\p{Pe}auml;	Ä	1	1	0
+\p{Ps}amp\p{Pe}beta;	Β	1	1	0
+\p{Ps}amp\p{Pe}bull;	•	1	1	0
+\p{Ps}amp\p{Pe}copy;	©	1	1	0
+\p{Ps}amp\p{Pe}dagger;	†	1	1	0
+\p{Ps}amp\p{Pe}Dagger;	‡	1	1	0
+\p{Ps}amp\p{Pe}deg;	°	1	1	0
+\p{Ps}amp\p{Pe}eacute;	é	1	1	0
+\p{Ps}amp\p{Pe}egrave;	è	1	1	0
+\p{Ps}amp\p{Pe}empty;	∅	1	1	0
+\p{Ps}amp\p{Pe}harr;	↔	1	1	0
+\p{Ps}amp\p{Pe}hellip;	...	1	1	0
+\p{Ps}amp\p{Pe}micro;	µ	1	1	0
+\p{Ps}amp\p{Pe}middot;	·	1	1	0
+\p{Ps}amp\p{Pe}mu;	M	1	1	0
+\p{Ps}amp\p{Pe}OHgr;	Ω	1	1	0
+\p{Ps}amp\p{Pe}ominus;	⊖	1	1	0
+\p{Ps}amp\p{Pe}ordm;	°	1	1	0
+\p{Ps}amp\p{Pe}percnt;	%	1	1	0
+\p{Ps}amp\p{Pe}plus;	+	1	1	0
+\p{Ps}amp\p{Pe}plusmn;	±	1	1	0
+\p{Ps}amp\p{Pe}reg;	®	1	1	0
+\p{Ps}amp\p{Pe}ring;	°	1	1	0
+\p{Ps}amp\p{Pe}sup1;	¹	1	1	0
+\p{Ps}amp\p{Pe}sup2;	²	1	1	0
+\p{Ps}amp\p{Pe}sup3;	³	1	1	0
+\p{Ps}amp\p{Pe}trade;	™	1	1	0
+\p{Ps}amp\p{Pe}Uuml;	Ü	1	1	0
+\p{Ps}amp\p{Pe}#47;	/	1	1	0
+\p{Ps}amp\p{Pe}#35;	#	1	1	0
+\p{Ps}amp\p{Pe}#58;	: 	1	1	0
+®	 ® 	1	1	0
+©	 © 	1	1	0
+™	 ™ 	1	1	0
+…	...	1	1	0
+(\p{Zs}\p{Zs})+	 	1	1	0
+^[ \t]+|[ \t]+$		1	1	0
+(\p{Zs}+)\n$|(\p{Zs}+)\r$|\n$|\r$		1	1	0
+\\n$|\\r$|\\t$		1	1	0
+\\n(\p{Zs}+)|\\r(\p{Zs}+)|\\t(\p{Zs}+)	 	1	1	0
+(\\n)([A-Z])([a-z])|(\\r)([A-Z])([a-z])|(\\t)([A-Z])([a-z])	$2$3$5$6$8$9	1	1	1
+\\n$|\\r$|\\t$		1	1	0
+\\n(\p{Zs}+)|\\r(\p{Zs}+)|\\t(\p{Zs}+)	 	1	1	0
+(\\n)([A-Z])([a-z])|(\\r)([A-Z])([a-z])|(\\t)([A-Z])([a-z])	$2$3$5$6$8$9	1	1	1
+\\n$|\\r$|\\t$		1	1	0
+\\n(\p{Zs}+)|\\r(\p{Zs}+)|\\t(\p{Zs}+)	 	1	1	0
+(\\n)([A-Z])([a-z])|(\\r)([A-Z])([a-z])|(\\t)([A-Z])([a-z])	$2$3$5$6$8$9	1	1	1
+[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+(?:[A-Z]{2}|com|org|net|gov|mil|biz|info|mobi|name|aero|jobs|museum)\b	first.name@address.com	1	1	0
+<!--.*?-->		1	1	0
+\*\*+	*	1	1	0
+(\*\p{Zs})+	*	1	1	0
+^(\p{Zs}+)		1	1	0
+(\p{Zs}+)$		1	1	0
+^(\*+)(\p{Zs}+)		1	1	0
+(\p{Zs}+)(\*+)$		1	1	0
+^\*+		1	1	0
+\*+$		1	1	0
+\*	 * 	1	1	0
+(\p{Zs}+)\.	.	1	1	0
+(\p{Zs}+),	,	1	1	0
+(\p{Zs}+):	:	1	1	0
+(\p{Zs}+);	;	1	1	0
+(\p{Zs}+)\!	!	1	1	0
+(\p{Zs}+)\?	?	1	1	0
+\((\p{Zs}+)	(	1	1	0
+(\p{Zs}+)\)	)	1	1	0
+\[(\p{Zs}+)	[	1	1	0
+(\p{Zs}+)\]	]	1	1	0
+\{(\p{Zs}+)	{	1	1	0
+(\p{Zs}+)\}	}	1	1	0
+(,,+)	,	1	1	0
+(;;+)	;	1	1	0
+(::+)	:	1	1	0
+^(\p{Zs}+)		1	1	0
+(\p{Zs}+)$		1	1	0
+(\p{Zs}\p{Zs})+	 	1	1	0
+\p{Ps}(\p{Po}+)\p{Pe}		1	1	0
+\p{Ps}(\p{Zs}+)\p{Pe}		1	1	0
+\p{Ps}\p{Pe}		1	1	0
+\p{Ps}"(\p{Zs}*)"\p{Pe}|\p{Ps}“(\p{Zs}*)”\p{Pe}|\p{Ps}«(\p{Zs}*)»\p{Pe}|\p{Ps}„(\p{Zs}*)“\p{Pe}|\p{Ps}„(\p{Zs}+)”\p{Pe}|\p{Ps}'(\p{Zs}*)'\p{Pe}|\p{Ps}‘(\p{Zs}*)’\p{Pe}|\p{Ps}\p{Pi}(\p{Zs}*)\p{Pf}\p{Pe}		1	1	0
+\p{Ps}[\p{Pd}|\p{Pc}\p{Zs}\p{Pd}|\p{Pc}]{1,}\p{Pe}		1	1	0
+\p{Ps}(\p{Po}+)\p{Pe}		1	1	0
+\p{Ps}(\p{Zs}+)\p{Pe}		1	1	0
+\p{Ps}\p{Pe}		1	1	0
+\p{Ps}"(\p{Zs}*)"\p{Pe}|\p{Ps}“(\p{Zs}*)”\p{Pe}|\p{Ps}«(\p{Zs}*)»\p{Pe}|\p{Ps}„(\p{Zs}*)“\p{Pe}|\p{Ps}„(\p{Zs}+)”\p{Pe}|\p{Ps}'(\p{Zs}*)'\p{Pe}|\p{Ps}‘(\p{Zs}*)’\p{Pe}|\p{Ps}\p{Pi}(\p{Zs}*)\p{Pf}\p{Pe}		1	1	0
+\p{Ps}[\p{Pd}|\p{Pc}\p{Zs}\p{Pd}|\p{Pc}]{1,}\p{Pe}		1	1	0
+(==+)	 = 	1	1	0
+(__+)	 _ 	1	1	0
+(\>\p{Zs})(\>\p{Zs})(\>\p{Zs})(\>\p{Zs})+	> > > 	1	1	0
+(\p{Zs}+)\.	.	1	1	0
+(\p{Zs}+),	,	1	1	0
+(\p{Zs}+):	:	1	1	0
+(\p{Zs}+);	;	1	1	0
+(\p{Zs}+)\!	!	1	1	0
+(\p{Zs}+)\?	?	1	1	0
+\((\p{Zs}+)	(	1	1	0
+(\p{Zs}+)\)	)	1	1	0
+\[(\p{Zs}+)	[	1	1	0
+(\p{Zs}+)\]	]	1	1	0
+\{(\p{Zs}+)	{	1	1	0
+(\p{Zs}+)\}	}	1	1	0
+(,,+)	,	1	1	0
+(;;+)	;	1	1	0
+(::+)	:	1	1	0
+(\p{Zs}\p{Zs})+	 	1	1	0
+^(\p{Zs}+)		1	1	0
+\?\?\?\?+	???	1	1	0
+\!\!\!\!+	!!!	1	1	0
+\<\<\<\<+	<<<	1	1	0
+\>\>\>\>+	>>>	1	1	0
+(>\p{Zs}+){4,}	 > > > 	1	1	0
+(>\p{Zs}+){3,}>	 > > > 	1	1	0
+…………+	………	1	1	0
+\*\*\*\*+	***	1	1	0
+(\*\p{Zs}+){4,}	 * * * 	1	1	0
+\.\.\.\.+	...	1	1	0
+^(\p{Zs}+)		1	1	0
+(\p{Zs}\p{Zs})+		1	1	0
+^((•+)(\p{Zs}+))+		1	1	0
+^(•+)		1	1	0
+^((•+)(\p{Zs}+))+		1	1	0
+^(•+)		1	1	0
+^((●+)(\p{Zs}+))+		1	1	0
+^(●+)		1	1	0
+^((●+)(\p{Zs}+))+		1	1	0
+^(●+)		1	1	0
+^((▪+)(\p{Zs}+))+		1	1	0
+^(▪+)		1	1	0
+^((<#>+)(\p{Zs}+))+		1	1	0
+^(<#>+)		1	1	0
+^((==+)(\p{Zs}+))+		1	1	0
+^(==+)		1	1	0
+^((->)+(\p{Zs}+))+		1	1	0
+^((–>)+(\p{Zs}+))+		1	1	0
+^((—>)+(\p{Zs}+))+		1	1	0
+^((‑>)+(\p{Zs}+))+		1	1	0
+^((­>)+(\p{Zs}+))+		1	1	0
+^(->)+		1	1	0
+^(–>)+		1	1	0
+^(—>)+		1	1	0
+^(‑>)+		1	1	0
+^(­>)+		1	1	0
+^((»+)(\p{Zs}+))+		1	1	0
+^(»+)		1	1	0
+^((►+)(\p{Zs}+))+		1	1	0
+^(►+)		1	1	0
+^((†+)(\p{Zs}+))+		1	1	0
+^(†+)		1	1	0
+^((‡+)(\p{Zs}+))+		1	1	0
+^(‡+)		1	1	0
+^((※+)(\p{Zs}+))+		1	1	0
+^(※+)		1	1	0
+^((※+)(\p{Zs}+))+		1	1	0
+^(※+)		1	1	0
+^((◊+)(\p{Zs}+))+		1	1	0
+^(◊+)		1	1	0
+^((←+)(\p{Zs}+))+		1	1	0
+^(←+)		1	1	0
+^((•+)(\p{Zs}+))+		1	1	0
+^(•+)		1	1	0
+^((✓+)(\p{Zs}+))+		1	1	0
+^(✓+)		1	1	0
+^((❏+)(\p{Zs}+))+		1	1	0
+^(❏+)		1	1	0
+^((□+)(\p{Zs}+))+		1	1	0
+^(□+)		1	1	0
+^((¨+)(\p{Zs}+))+		1	1	0
+^(¨+)		1	1	0
+^((♦+)(\p{Zs}+))+		1	1	0
+^(♦+)		1	1	0
+^((¶+)(\p{Zs}+))+		1	1	0
+^(¶+)		1	1	0
+^((¦+)(\p{Zs}+))+		1	1	0
+^(¦+)		1	1	0
+^((˘+)(\p{Zs}+))+		1	1	0
+^(˘+)		1	1	0
+^((ˇ+)(\p{Zs}+))+		1	1	0
+^(ˇ+)		1	1	0
+^((⇒+)(\p{Zs}+))+		1	1	0
+^(⇒+)		1	1	0
+^((■+)(\p{Zs}+))+		1	1	0
+^(■+)		1	1	0
+^((■+)(\p{Zs}+))+		1	1	0
+^(■+)		1	1	0
+^((★+)(\p{Zs}+))+		1	1	0
+^(★+)		1	1	0
+^((•+)(\p{Zs}+))+		1	1	0
+^(•+)		1	1	0
+^((+)(\p{Zs}+))+		1	1	0
+^(+)		1	1	0
+^((•+)(\p{Zs}+))+		1	1	0
+^(•+)		1	1	0
+^((\}-->)+(\p{Zs}+))+		1	1	0
+^((\}––>)+(\p{Zs}+))+		1	1	0
+^((\}——>)+(\p{Zs}+))+		1	1	0
+^((\}‑‑>)+(\p{Zs}+))+		1	1	0
+^((\}­­>)+(\p{Zs}+))+		1	1	0
+^((\}−−>)+(\p{Zs}+))+		1	1	0
+^(\}-->)+		1	1	0
+^(\}––>)+		1	1	0
+^(\}——>)+		1	1	0
+^(\}‑‑>)+		1	1	0
+^(\}­­>)+		1	1	0
+^(\}−−>)+		1	1	0
+^((\}\})+(\p{Zs}+))+		1	1	0
+^(==+)		1	1	0
+^((−+)(\p{Zs}+))+		1	1	0
+^(−+)		1	1	0
+^((<-)+(\p{Zs}+))+		1	1	0
+^((<–)+(\p{Zs}+))+		1	1	0
+^((<—)+(\p{Zs}+))+		1	1	0
+^((<‑)+(\p{Zs}+))+		1	1	0
+^((<­)+(\p{Zs}+))+		1	1	0
+^((<−)+(\p{Zs}+))+		1	1	0
+^(<-)+		1	1	0
+^(<–)+		1	1	0
+^(<—)+		1	1	0
+^(<‑)+		1	1	0
+^(<­)+		1	1	0
+^(<−)+		1	1	0
+^((<!--)+(\p{Zs}+))+		1	1	0
+^((<!––)+(\p{Zs}+))+		1	1	0
+^((<!——)+(\p{Zs}+))+		1	1	0
+^((<!‑‑)+(\p{Zs}+))+		1	1	0
+^((<!­­)+(\p{Zs}+))+		1	1	0
+^((<!−−)+(\p{Zs}+))+		1	1	0
+^(<!--)+		1	1	0
+^(<!––)+		1	1	0
+^(<!——)+		1	1	0
+^(<!‑‑)+		1	1	0
+^(<!­­)+		1	1	0
+^(<!−−)+		1	1	0
+^((<!)+(\p{Zs}+))+		1	1	0
+^(<!)+		1	1	0
+^((<+(-+))+(\p{Zs}+))+		1	1	0
+^((<+(–+))+(\p{Zs}+))+		1	1	0
+^((<+(—+))+(\p{Zs}+))+		1	1	0
+^((<+(‑+))+(\p{Zs}+))+		1	1	0
+^((<+(­+))+(\p{Zs}+))+		1	1	0
+^((<+(−+))+(\p{Zs}+))+		1	1	0
+^(<+(-+))+		1	1	0
+^(<+(–+))+		1	1	0
+^(<+(—+))+		1	1	0
+^(<+(‑+))+		1	1	0
+^(<+(­+))+		1	1	0
+^(<+(−+))+		1	1	0
+(--+)	-	1	1	0
+(––+)	–	1	1	0
+(——+)	—	1	1	0
+(‑‑+)	‑	1	1	0
+(­­+)	­	1	1	0
+(−−+)	−	1	1	0
+^(>+(\p{Zs})+>+(\p{Zs})+)+		1	1	0
+^(>+(\p{Zs})+>+)+		1	1	0
+^((>>+)(\p{Zs}+))+		1	1	0
+^(>>+)		1	1	0
+^((\*+)(\p{Zs}+))+		1	1	0
+^(\*+)		1	1	0
+^((-+)(\p{Zs}+))+		1	1	0
+^(-+)		1	1	0
+^((­+)(\p{Zs}+))+		1	1	0
+^(­+)		1	1	0
+^((–+)(\p{Zs}+))+		1	1	0
+^(–+)		1	1	0
+^((-+)(\p{Zs}+))+		1	1	0
+^(-+)		1	1	0
+^((—+)(\p{Zs}+))+		1	1	0
+^(—+)		1	1	0
+^((‐+)(\p{Zs}+))+		1	1	0
+^(‐+)		1	1	0
+^((‒+)(\p{Zs}+))+		1	1	0
+^(‒+)		1	1	0
+^((―+)(\p{Zs}+))+		1	1	0
+^(―+)		1	1	0
+^((_+)(\p{Zs}+))+		1	1	0
+^(_+)		1	1	0
+^((–+)(\p{Zs}+))+		1	1	0
+^(–+)		1	1	0
+^((-+)(\p{Zs}+))+		1	1	0
+^(-+)		1	1	0
+^((—+)(\p{Zs}+))+		1	1	0
+^(—+)		1	1	0
+^((‐+)(\p{Zs}+))+		1	1	0
+^(‐+)		1	1	0
+^((‒+)(\p{Zs}+))+		1	1	0
+^(‒+)		1	1	0
+^((―+)(\p{Zs}+))+		1	1	0
+^(―+)		1	1	0
+^((_+)(\p{Zs}+))+		1	1	0
+^(_+)		1	1	0
+^((▴+)(\p{Zs}+))+		1	1	0
+^(▴+)		1	1	0
+^((▾+)(\p{Zs}+))+		1	1	0
+^(▾+)		1	1	0
+^((◂+)(\p{Zs}+))+		1	1	0
+^(◂+)		1	1	0
+^((▸+)(\p{Zs}+))+		1	1	0
+^(▸+)		1	1	0
+^((☆+)(\p{Zs}+))+		1	1	0
+^(☆+)		1	1	0
+^((⇔+)(\p{Zs}+))+		1	1	0
+^(⇔+)		1	1	0
+^((¬+)(\p{Zs}+))+		1	1	0
+^(¬+)		1	1	0
+^((▮+)(\p{Zs}+))+		1	1	0
+^(▮+)		1	1	0
+^((→+)(\p{Zs}+))+		1	1	0
+^(→+)		1	1	0
+^((➔+)(\p{Zs}+))+		1	1	0
+^(➔+)		1	1	0
+^((↓+)(\p{Zs}+))+		1	1	0
+^(↓+)		1	1	0
+^((↑+)(\p{Zs}+))+		1	1	0
+^(↑+)		1	1	0
+^((❍+)(\p{Zs}+))+		1	1	0
+^(❍+)		1	1	0
+^((←+)(\p{Zs}+))+		1	1	0
+^(←+)		1	1	0
+^((\|+)(\p{Zs}+))+		1	1	0
+^(\|+)		1	1	0
+^((▼+)(\p{Zs}+))+		1	1	0
+^(▼+)		1	1	0
+^((‧+)(\p{Zs}+))+		1	1	0
+^(‧+)		1	1	0
+^((①+)(\p{Zs}+))+		1	1	0
+^(①+)		1	1	0
+^((②+)(\p{Zs}+))+		1	1	0
+^(②+)		1	1	0
+^((③+)(\p{Zs}+))+		1	1	0
+^(③+)		1	1	0
+^((④+)(\p{Zs}+))+		1	1	0
+^(④+)		1	1	0
+^((⑤+)(\p{Zs}+))+		1	1	0
+^(⑤+)		1	1	0
+^((⑧+)(\p{Zs}+))+		1	1	0
+^(⑧+)		1	1	0
+^((➡+)(\p{Zs}+))+		1	1	0
+^(➡+)		1	1	0
+^((♠+)(\p{Zs}+))+		1	1	0
+^(♠+)		1	1	0
+^((♣+)(\p{Zs}+))+		1	1	0
+^(♣+)		1	1	0
+^((♥+)(\p{Zs}+))+		1	1	0
+^(♥+)		1	1	0
+^((↔+)(\p{Zs}+))+		1	1	0
+^(↔+)		1	1	0
+^((↵+)(\p{Zs}+))+		1	1	0
+^(↵+)		1	1	0
+^((⇐+)(\p{Zs}+))+		1	1	0
+^(⇐+)		1	1	0
+^((⇑+)(\p{Zs}+))+		1	1	0
+^(⇑+)		1	1	0
+^((⇒+)(\p{Zs}+))+		1	1	0
+^(⇒+)		1	1	0
+^((⇓+)(\p{Zs}+))+		1	1	0
+^(⇓+)		1	1	0
+^((▲+)(\p{Zs}+))+		1	1	0
+^(▲+)		1	1	0
+^((▶+)(\p{Zs}+))+		1	1	0
+^(▶+)		1	1	0
+^((·+)(\p{Zs}+))+		1	1	0
+^(·+)		1	1	0
+^((✔+)(\p{Zs}+))+		1	1	0
+^(✔+)		1	1	0
+^((☐+)(\p{Zs}+))+		1	1	0
+^(☐+)		1	1	0
+^((·+)(\p{Zs}+))+		1	1	0
+^(·+)		1	1	0
+^((◆+)(\p{Zs}+))+		1	1	0
+^(◆+)		1	1	0
+^((◀+)(\p{Zs}+))+		1	1	0
+^(◀+)		1	1	0
+^((＊+)(\p{Zs}+))+		1	1	0
+^(＊+)		1	1	0
+^((➢+)(\p{Zs}+))+		1	1	0
+^(➢+)		1	1	0
+^((・+)(\p{Zs}+))+		1	1	0
+^(・+)		1	1	0
+^((◇+)(\p{Zs}+))+		1	1	0
+^(◇+)		1	1	0
+^((◇+)(\p{Zs}+))+		1	1	0
+^(◇+)		1	1	0
+^((◎+)(\p{Zs}+))+		1	1	0
+^(◎+)		1	1	0
+^((☒+)(\p{Zs}+))+		1	1	0
+^(☒+)		1	1	0
+^((↕+)(\p{Zs}+))+		1	1	0
+^(↕+)		1	1	0
+^((\p{Pd})+(\p{Zs}+))+		1	1	0
+^(\p{Pd})+		1	1	0
+^((\p{Ps}amp\p{Pe}#9;)+(\p{Zs}+))+		1	1	0
+^(\p{Ps}amp\p{Pe}#9;)+		1	1	0
+((\p{Zs}+)(_+))+$		1	1	0
+(_+)$		1	1	0
+\p{Zs}imt@\.	 .	1	1	0
+(\p{Zs}+)\.\.\.	...	1	1	0
+(\p{Zs}+)\.(\p{Zs}+)$	.	1	1	0
+(\p{Zs}+)\.(\p{Zs}+)	. 	1	1	0
+(\p{Zs}+)\.$	.	1	1	0
+(,|;|:)(\p{Zs}*)(\.+)(\p{Zs}*)$	$3	1	1	0
+(,|;|:)(\p{Zs}*)(\.+)(\p{Zs}*)("+)(\p{Zs}*)$	$3$5	1	1	0
+(,|;|:)(\p{Zs}*)(\.+)(\p{Zs}*)('+)(\p{Zs}*)$	$3$5	1	1	0
+(,|;|:)(\p{Zs}*)(\.+)(\p{Zs}*)(”+)(\p{Zs}*)$	$3$5	1	1	0
+(,|;|:)(\p{Zs}*)(\.+)(\p{Zs}*)(’+)(\p{Zs}*)$	$3$5	1	1	0
+(,|;|:)(\p{Zs}*)(\.+)(\p{Zs}*)(»+)(\p{Zs}*)$	$3$5	1	1	0
+(\p{Zs}+)(\.+)(\p{Pe}+)	$2$3	1	1	0
+(\p{Zs}+)(\.+)$	$2	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)("+)(\p{Zs}*)$	$2$4	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)('+)(\p{Zs}*)$	$2$4	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)(”+)(\p{Zs}*)$	$2$4	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)(’+)(\p{Zs}*)$	$2$4	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)(»+)(\p{Zs}*)$	$2$4	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)(\p{Po}+)(\p{Zs}*)$	$4	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)・(\p{Zs}*)$	$2	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)(\p{Pd}+)(\p{Zs}*)$	$2	1	1	0
+(\p{Zs}+)(\.+)(\p{Zs}*)(\p{Pc}+)(\p{Zs}*)$	$2	1	1	0
+imt@		1	1	0
+(\p{Zs}\p{Zs})+	 	1	1	0
+\p{Ps}(\p{Po}+\p{Zs}+\.+)\p{Pe}		1	1	0
+\p{Ps}(\p{Zs}+\.+\p{Po}+)\p{Pe}		1	1	0
+^(\p{Zs}+)		1	1	0
+(\p{Zs}+)$		1	1	0
+^("+)(\p{Zs}+)	$1	1	1	0
+^('+)(\p{Zs}+)	$1	1	1	0
+^(“+)(\p{Zs}+)	$1	1	1	0
+^(‘+)(\p{Zs}+)	$1	1	1	0
+^(«+)(\p{Zs}+)	$1	1	1	0
+^(„+)(\p{Zs}+)	$1	1	1	0
+(\p{Zs}+)("+)$	$2	1	1	0
+(\p{Zs}+)('+)$	$2	1	1	0
+(\p{Zs}+)(”+)$	$2	1	1	0
+(\p{Zs}+)(’+)$	$2	1	1	0
+(\p{Zs}+)(»+)$	$2	1	1	0
+(\p{Po}+)(\p{Zs}+)("+)$	$1$3	1	1	0
+(\p{Po}+)(\p{Zs}+)('+)$	$1$3	1	1	0
+(\p{Po}+)(\p{Zs}+)(”+)$	$1$3	1	1	0
+(\p{Po}+)(\p{Zs}+)(’+)$	$1$3	1	1	0
+(\p{Po}+)(\p{Zs}+)(»+)$	$1$3	1	1	0
+(\p{Zs}+)("+)(\p{Po}+)$	$2$3	1	1	0
+(\p{Zs}+)('+)(\p{Po}+)$	$2$3	1	1	0
+(\p{Zs}+)(”+)(\p{Po}+)$	$2$3	1	1	0
+(\p{Zs}+)(’+)(\p{Po}+)$	$2$3	1	1	0
+(\p{Zs}+)(»+)(\p{Po}+)$	$2$3	1	1	0
+(\p{Zs}+)("+)(\p{Pe}+)$	$2$3	1	1	0
+(\p{Zs}+)('+)(\p{Pe}+)$	$2$3	1	1	0
+(\p{Zs}+)(”+)(\p{Pe}+)$	$2$3	1	1	0
+(\p{Zs}+)(’+)(\p{Pe}+)$	$2$3	1	1	0
+(\p{Zs}+)(»+)(\p{Pe}+)$	$2$3	1	1	0
+(\p{Zs}+)("+)(\p{Po}+)(\p{Pe}+)$	$2$3$4	1	1	0
+(\p{Zs}+)('+)(\p{Po}+)(\p{Pe}+)$	$2$3$4	1	1	0
+(\p{Zs}+)(”+)(\p{Po}+)(\p{Pe}+)$	$2$3$4	1	1	0
+(\p{Zs}+)(’+)(\p{Po}+)(\p{Pe}+)$	$2$3$4	1	1	0
+(\p{Zs}+)(»+)(\p{Po}+)(\p{Pe}+)$	$2$3$4	1	1	0
+(\p{Zs}+)("+)(\p{Pe})(\p{Po}+)$	$2$3$4	1	1	0
+(\p{Zs}+)('+)(\p{Pe})(\p{Po}+)$	$2$3$4	1	1	0
+(\p{Zs}+)(”+)(\p{Pe})(\p{Po}+)$	$2$3$4	1	1	0
+(\p{Zs}+)(’+)(\p{Pe})(\p{Po}+)$	$2$3$4	1	1	0
+(\p{Zs}+)(»+)(\p{Pe})(\p{Po}+)$	$2$3$4	1	1	0
+\u2028	\\n	1	1	0
+\bAin(\p{Zs}+)'(\p{Zs}+)t\b	Ain't	1	1	1
+\bAIN(\p{Zs}+)'(\p{Zs}+)T\b	AIN'T	1	1	1
+\bain(\p{Zs}+)'(\p{Zs}+)t\b	ain't	1	1	1
+\bAin(\p{Zs}+)’(\p{Zs}+)t\b	Ain’t	1	1	1
+\bAIN(\p{Zs}+)’(\p{Zs}+)T\b	AIN’T	1	1	1
+\bain(\p{Zs}+)’(\p{Zs}+)t\b	ain’t	1	1	1
+\bAin(\p{Zs}+)’t\b	Ain’t	1	1	1
+\bAIN(\p{Zs}+)’T\b	AIN’T	1	1	1
+\bain(\p{Zs}+)’t\b	ain’t	1	1	1
+\bAin(\p{Zs}+)'t\b	Ain't	1	1	1
+\bAIN(\p{Zs}+)'T\b	AIN'T	1	1	1
+\bain(\p{Zs}+)'t\b	ain't	1	1	1
+\bAin'(\p{Zs}+)t\b	Ain't	1	1	1
+\bAIN'(\p{Zs}+)T\b	AIN'T	1	1	1
+\bain'(\p{Zs}+)t\b	ain't	1	1	1
+\bAin’(\p{Zs}+)t\b	Ain’t	1	1	1
+\bAIN’(\p{Zs}+)T\b	AIN’T	1	1	1
+\bain’(\p{Zs}+)t\b	ain’t	1	1	1
+\bAnother(\p{Zs}+)'(\p{Zs}+)s\b	Another's	1	1	1
+\banother(\p{Zs}+)'(\p{Zs}+)s\b	another's	1	1	1
+\bANOTHER(\p{Zs}+)'(\p{Zs}+)S\b	ANOTHER'S	1	1	1
+\bAnother(\p{Zs}+)’(\p{Zs}+)s\b	Another’s	1	1	1
+\banother(\p{Zs}+)’(\p{Zs}+)s\b	another’s	1	1	1
+\bANOTHER(\p{Zs}+)’(\p{Zs}+)S\b	ANOTHER’S	1	1	1
+\bAnother(\p{Zs}+)’s\b	Another’s	1	1	1
+\banother(\p{Zs}+)’s\b	another’s	1	1	1
+\bANOTHER(\p{Zs}+)’S\b	ANOTHER’S	1	1	1
+\bAnother(\p{Zs}+)'s\b	Another's	1	1	1
+\banother(\p{Zs}+)'s\b	another's	1	1	1
+\bANOTHER(\p{Zs}+)'S\b	ANOTHER'S	1	1	1
+\bAnother'(\p{Zs}+)s\b	Another's	1	1	1
+\banother'(\p{Zs}+)s\b	another's	1	1	1
+\bANOTHER'(\p{Zs}+)S\b	ANOTHER'S	1	1	1
+\bAnother’(\p{Zs}+)s\b	Another’s	1	1	1
+\banother’(\p{Zs}+)s\b	another’s	1	1	1
+\bANOTHER’(\p{Zs}+)S\b	ANOTHER’S	1	1	1
+\bAnybody(\p{Zs}+)'(\p{Zs}+)s\b	Anybody's	1	1	1
+\banybody(\p{Zs}+)'(\p{Zs}+)s\b	anybody's	1	1	1
+\bANYBODY(\p{Zs}+)'(\p{Zs}+)S\b	ANYBODY'S	1	1	1
+\bAnybody(\p{Zs}+)’(\p{Zs}+)s\b	Anybody’s	1	1	1
+\banybody(\p{Zs}+)’(\p{Zs}+)s\b	anybody’s	1	1	1
+\bANYBODY(\p{Zs}+)’(\p{Zs}+)S\b	ANYBODY’S	1	1	1
+\bAnybody(\p{Zs}+)’s\b	Anybody’s	1	1	1
+\banybody(\p{Zs}+)’s\b	anybody’s	1	1	1
+\bANYBODY(\p{Zs}+)’S\b	ANYBODY’S	1	1	1
+\bAnybody(\p{Zs}+)'s\b	Anybody's	1	1	1
+\banybody(\p{Zs}+)'s\b	anybody's	1	1	1
+\bANYBODY(\p{Zs}+)'S\b	ANYBODY'S	1	1	1
+\bAnybody'(\p{Zs}+)s\b	Anybody's	1	1	1
+\banybody'(\p{Zs}+)s\b	anybody's	1	1	1
+\bANYBODY'(\p{Zs}+)S\b	ANYBODY'S	1	1	1
+\bAnybody’(\p{Zs}+)s\b	Anybody’s	1	1	1
+\banybody’(\p{Zs}+)s\b	anybody’s	1	1	1
+\bANYBODY’(\p{Zs}+)S\b	ANYBODY’S	1	1	1
+\bAren(\p{Zs}+)'(\p{Zs}+)t\b	Aren't	1	1	1
+\bAREN(\p{Zs}+)'(\p{Zs}+)T\b	AREN'T	1	1	1
+\baren(\p{Zs}+)'(\p{Zs}+)t\b	aren't	1	1	1
+\bAren(\p{Zs}+)’(\p{Zs}+)t\b	Aren’t	1	1	1
+\bAREN(\p{Zs}+)’(\p{Zs}+)T\b	AREN’T	1	1	1
+\baren(\p{Zs}+)’(\p{Zs}+)t\b	aren’t	1	1	1
+\bAren(\p{Zs}+)’t\b	Aren’t	1	1	1
+\bAREN(\p{Zs}+)’T\b	AREN’T	1	1	1
+\baren(\p{Zs}+)’t\b	aren’t	1	1	1
+\bAren(\p{Zs}+)'t\b	Aren't	1	1	1
+\bAREN(\p{Zs}+)'T\b	AREN'T	1	1	1
+\baren(\p{Zs}+)'t\b	aren't	1	1	1
+\bAren'(\p{Zs}+)t\b	Aren't	1	1	1
+\bAREN'(\p{Zs}+)T\b	AREN'T	1	1	1
+\baren'(\p{Zs}+)t\b	aren't	1	1	1
+\bAren’(\p{Zs}+)t\b	Aren’t	1	1	1
+\bAREN’(\p{Zs}+)T\b	AREN’T	1	1	1
+\baren’(\p{Zs}+)t\b	aren’t	1	1	1
+\bAuditor(\p{Zs}+)'(\p{Zs}+)s\b	Auditor's	1	1	1
+\bauditor(\p{Zs}+)'(\p{Zs}+)s\b	auditor's	1	1	1
+\bAUDITOR(\p{Zs}+)'(\p{Zs}+)S\b	AUDITOR'S	1	1	1
+\bAuditor(\p{Zs}+)’(\p{Zs}+)s\b	Auditor’s	1	1	1
+\bauditor(\p{Zs}+)’(\p{Zs}+)s\b	auditor’s	1	1	1
+\bAUDITOR(\p{Zs}+)’(\p{Zs}+)S\b	AUDITOR’S	1	1	1
+\bAuditor(\p{Zs}+)’s\b	Auditor’s	1	1	1
+\bauditor(\p{Zs}+)’s\b	auditor’s	1	1	1
+\bAUDITOR(\p{Zs}+)’S\b	AUDITOR’S	1	1	1
+\bAuditor(\p{Zs}+)'s\b	Auditor's	1	1	1
+\bauditor(\p{Zs}+)'s\b	auditor's	1	1	1
+\bAUDITOR(\p{Zs}+)'S\b	AUDITOR'S	1	1	1
+\bAuditor'(\p{Zs}+)s\b	Auditor's	1	1	1
+\bauditor'(\p{Zs}+)s\b	auditor's	1	1	1
+\bAUDITOR'(\p{Zs}+)S\b	AUDITOR'S	1	1	1
+\bAuditor’(\p{Zs}+)s\b	Auditor’s	1	1	1
+\bauditor’(\p{Zs}+)s\b	auditor’s	1	1	1
+\bAUDITOR’(\p{Zs}+)S\b	AUDITOR’S	1	1	1
+\bBill(\p{Zs}+)'(\p{Zs}+)s\b	Bill's	1	1	1
+\bBILL(\p{Zs}+)'(\p{Zs}+)S\b	BILL'S	1	1	1
+\bbill(\p{Zs}+)'(\p{Zs}+)s\b	bill's	1	1	1
+\bBill(\p{Zs}+)’(\p{Zs}+)s\b	Bill’s	1	1	1
+\bBILL(\p{Zs}+)’(\p{Zs}+)S\b	BILL’S	1	1	1
+\bbill(\p{Zs}+)’(\p{Zs}+)s\b	bill’s	1	1	1
+\bBill(\p{Zs}+)’s\b	Bill’s	1	1	1
+\bBILL(\p{Zs}+)’S\b	BILL’S	1	1	1
+\bbill(\p{Zs}+)’s\b	bill’s	1	1	1
+\bBill(\p{Zs}+)'s\b	Bill's	1	1	1
+\bBILL(\p{Zs}+)'S\b	BILL'S	1	1	1
+\bbill(\p{Zs}+)'s\b	bill's	1	1	1
+\bBill'(\p{Zs}+)s\b	Bill's	1	1	1
+\bBILL'(\p{Zs}+)S\b	BILL'S	1	1	1
+\bbill'(\p{Zs}+)s\b	bill's	1	1	1
+\bBill’(\p{Zs}+)s\b	Bill’s	1	1	1
+\bBILL’(\p{Zs}+)S\b	BILL’S	1	1	1
+\bbill’(\p{Zs}+)s\b	bill’s	1	1	1
+\bBody(\p{Zs}+)'(\p{Zs}+)s\b	Body's	1	1	1
+\bbody(\p{Zs}+)'(\p{Zs}+)s\b	body's	1	1	1
+\bBODY(\p{Zs}+)'(\p{Zs}+)S\b	BODY'S	1	1	1
+\bBody(\p{Zs}+)’(\p{Zs}+)s\b	Body’s	1	1	1
+\bbody(\p{Zs}+)’(\p{Zs}+)s\b	body’s	1	1	1
+\bBODY(\p{Zs}+)’(\p{Zs}+)S\b	BODY’S	1	1	1
+\bBody(\p{Zs}+)’s\b	Body’s	1	1	1
+\bbody(\p{Zs}+)’s\b	body’s	1	1	1
+\bBODY(\p{Zs}+)’S\b	BODY’S	1	1	1
+\bBody(\p{Zs}+)'s\b	Body's	1	1	1
+\bbody(\p{Zs}+)'s\b	body's	1	1	1
+\bBODY(\p{Zs}+)'S\b	BODY'S	1	1	1
+\bBody'(\p{Zs}+)s\b	Body's	1	1	1
+\bbody'(\p{Zs}+)s\b	body's	1	1	1
+\bBODY'(\p{Zs}+)S\b	BODY'S	1	1	1
+\bBody’(\p{Zs}+)s\b	Body’s	1	1	1
+\bbody’(\p{Zs}+)s\b	body’s	1	1	1
+\bBODY’(\p{Zs}+)S\b	BODY’S	1	1	1
+\bCan(\p{Zs}+)'(\p{Zs}+)t\b	Can't	1	1	1
+\bCAN(\p{Zs}+)'(\p{Zs}+)T\b	CAN'T	1	1	1
+\bcan(\p{Zs}+)'(\p{Zs}+)t\b	can't	1	1	1
+\bCan(\p{Zs}+)’(\p{Zs}+)t\b	Can’t	1	1	1
+\bCAN(\p{Zs}+)’(\p{Zs}+)T\b	CAN’T	1	1	1
+\bcan(\p{Zs}+)’(\p{Zs}+)t\b	can’t	1	1	1
+\bCan(\p{Zs}+)’t\b	Can’t	1	1	1
+\bCAN(\p{Zs}+)’T\b	CAN’T	1	1	1
+\bcan(\p{Zs}+)’t\b	can’t	1	1	1
+\bCan(\p{Zs}+)'t\b	Can't	1	1	1
+\bCAN(\p{Zs}+)'T\b	CAN'T	1	1	1
+\bcan(\p{Zs}+)'t\b	can't	1	1	1
+\bCan'(\p{Zs}+)t\b	Can't	1	1	1
+\bCAN'(\p{Zs}+)T\b	CAN'T	1	1	1
+\bcan'(\p{Zs}+)t\b	can't	1	1	1
+\bCan’(\p{Zs}+)t\b	Can’t	1	1	1
+\bCAN’(\p{Zs}+)T\b	CAN’T	1	1	1
+\bcan’(\p{Zs}+)t\b	can’t	1	1	1
+\bCard(\p{Zs}+)'(\p{Zs}+)s\b	Card's	1	1	1
+\bCARD(\p{Zs}+)'(\p{Zs}+)S\b	CARD'S	1	1	1
+\bcard(\p{Zs}+)'(\p{Zs}+)s\b	card's	1	1	1
+\bCard(\p{Zs}+)’(\p{Zs}+)s\b	Card’s	1	1	1
+\bCARD(\p{Zs}+)’(\p{Zs}+)S\b	CARD’S	1	1	1
+\bcard(\p{Zs}+)’(\p{Zs}+)s\b	card’s	1	1	1
+\bCard(\p{Zs}+)’s\b	Card’s	1	1	1
+\bCARD(\p{Zs}+)’S\b	CARD’S	1	1	1
+\bcard(\p{Zs}+)’s\b	card’s	1	1	1
+\bCard(\p{Zs}+)'s\b	Card's	1	1	1
+\bCARD(\p{Zs}+)'S\b	CARD'S	1	1	1
+\bcard(\p{Zs}+)'s\b	card's	1	1	1
+\bCard'(\p{Zs}+)s\b	Card's	1	1	1
+\bCARD'(\p{Zs}+)S\b	CARD'S	1	1	1
+\bcard'(\p{Zs}+)s\b	card's	1	1	1
+\bCard’(\p{Zs}+)s\b	Card’s	1	1	1
+\bCARD’(\p{Zs}+)S\b	CARD’S	1	1	1
+\bcard’(\p{Zs}+)s\b	card’s	1	1	1
+\bCeiling(\p{Zs}+)'(\p{Zs}+)s\b	Ceiling's	1	1	1
+\bCEILING(\p{Zs}+)'(\p{Zs}+)S\b	CEILING'S	1	1	1
+\bceiling(\p{Zs}+)'(\p{Zs}+)s\b	ceiling's	1	1	1
+\bCeiling(\p{Zs}+)’(\p{Zs}+)s\b	Ceiling’s	1	1	1
+\bCEILING(\p{Zs}+)’(\p{Zs}+)S\b	CEILING’S	1	1	1
+\bceiling(\p{Zs}+)’(\p{Zs}+)s\b	ceiling’s	1	1	1
+\bCeiling(\p{Zs}+)’s\b	Ceiling’s	1	1	1
+\bCEILING(\p{Zs}+)’S\b	CEILING’S	1	1	1
+\bceiling(\p{Zs}+)’s\b	ceiling’s	1	1	1
+\bCeiling(\p{Zs}+)'s\b	Ceiling's	1	1	1
+\bCEILING(\p{Zs}+)'S\b	CEILING'S	1	1	1
+\bceiling(\p{Zs}+)'s\b	ceiling's	1	1	1
+\bCeiling'(\p{Zs}+)s\b	Ceiling's	1	1	1
+\bCEILING'(\p{Zs}+)S\b	CEILING'S	1	1	1
+\bceiling'(\p{Zs}+)s\b	ceiling's	1	1	1
+\bCeiling’(\p{Zs}+)s\b	Ceiling’s	1	1	1
+\bCEILING’(\p{Zs}+)S\b	CEILING’S	1	1	1
+\bceiling’(\p{Zs}+)s\b	ceiling’s	1	1	1
+\bCouldn(\p{Zs}+)'(\p{Zs}+)t\b	Couldn't	1	1	1
+\bCOULDN(\p{Zs}+)'(\p{Zs}+)T\b	COULDN'T	1	1	1
+\bcouldn(\p{Zs}+)'(\p{Zs}+)t\b	couldn't	1	1	1
+\bCouldn(\p{Zs}+)’(\p{Zs}+)t\b	Couldn’t	1	1	1
+\bCOULDN(\p{Zs}+)’(\p{Zs}+)T\b	COULDN’T	1	1	1
+\bcouldn(\p{Zs}+)’(\p{Zs}+)t\b	couldn’t	1	1	1
+\bCouldn(\p{Zs}+)’t\b	Couldn’t	1	1	1
+\bCOULDN(\p{Zs}+)’T\b	COULDN’T	1	1	1
+\bcouldn(\p{Zs}+)’t\b	couldn’t	1	1	1
+\bCouldn(\p{Zs}+)'t\b	Couldn't	1	1	1
+\bCOULDN(\p{Zs}+)'T\b	COULDN'T	1	1	1
+\bcouldn(\p{Zs}+)'t\b	couldn't	1	1	1
+\bCouldn'(\p{Zs}+)t\b	Couldn't	1	1	1
+\bCOULDN'(\p{Zs}+)T\b	COULDN'T	1	1	1
+\bcouldn'(\p{Zs}+)t\b	couldn't	1	1	1
+\bCouldn’(\p{Zs}+)t\b	Couldn’t	1	1	1
+\bCOULDN’(\p{Zs}+)T\b	COULDN’T	1	1	1
+\bcouldn’(\p{Zs}+)t\b	couldn’t	1	1	1
+\bCuraçao(\p{Zs}+)'(\p{Zs}+)s\b	Curaçao's	1	1	1
+\bCURAÇAO(\p{Zs}+)'(\p{Zs}+)S\b	CURAÇAO'S	1	1	1
+\bcuraçao(\p{Zs}+)'(\p{Zs}+)s\b	Curaçao's	1	1	1
+\bCuraçao(\p{Zs}+)’(\p{Zs}+)s\b	Curaçao’s	1	1	1
+\bCURAÇAO(\p{Zs}+)’(\p{Zs}+)S\b	CURAÇAO’S	1	1	1
+\bcuraçao(\p{Zs}+)’(\p{Zs}+)s\b	Curaçao’s	1	1	1
+\bCuraçao(\p{Zs}+)’s\b	Curaçao’s	1	1	1
+\bCURAÇAO(\p{Zs}+)’S\b	CURAÇAO’S	1	1	1
+\bcuraçao(\p{Zs}+)’s\b	Curaçao’s	1	1	1
+\bCuraçao(\p{Zs}+)'s\b	Curaçao's	1	1	1
+\bCURAÇAO(\p{Zs}+)'S\b	CURAÇAO'S	1	1	1
+\bcuraçao(\p{Zs}+)'s\b	Curaçao's	1	1	1
+\bCuraçao'(\p{Zs}+)s\b	Curaçao's	1	1	1
+\bCURAÇAO'(\p{Zs}+)S\b	CURAÇAO'S	1	1	1
+\bcuraçao'(\p{Zs}+)s\b	Curaçao's	1	1	1
+\bCuraçao’(\p{Zs}+)s\b	Curaçao’s	1	1	1
+\bCURAÇAO’(\p{Zs}+)S\b	CURAÇAO’S	1	1	1
+\bcuraçao’(\p{Zs}+)s\b	Curaçao’s	1	1	1
+\bDidn(\p{Zs}+)'(\p{Zs}+)t\b	Didn't	1	1	1
+\bDIDN(\p{Zs}+)'(\p{Zs}+)T\b	DIDN'T	1	1	1
+\bdidn(\p{Zs}+)'(\p{Zs}+)t\b	didn't	1	1	1
+\bDidn(\p{Zs}+)’(\p{Zs}+)t\b	Didn’t	1	1	1
+\bDIDN(\p{Zs}+)’(\p{Zs}+)T\b	DIDN’T	1	1	1
+\bdidn(\p{Zs}+)’(\p{Zs}+)t\b	didn’t	1	1	1
+\bDidn(\p{Zs}+)’t\b	Didn’t	1	1	1
+\bDIDN(\p{Zs}+)’T\b	DIDN’T	1	1	1
+\bdidn(\p{Zs}+)’t\b	didn’t	1	1	1
+\bDidn(\p{Zs}+)'t\b	Didn't	1	1	1
+\bDIDN(\p{Zs}+)'T\b	DIDN'T	1	1	1
+\bdidn(\p{Zs}+)'t\b	didn't	1	1	1
+\bDidn'(\p{Zs}+)t\b	Didn't	1	1	1
+\bDIDN'(\p{Zs}+)T\b	DIDN'T	1	1	1
+\bdidn'(\p{Zs}+)t\b	didn't	1	1	1
+\bDidn’(\p{Zs}+)t\b	Didn’t	1	1	1
+\bDIDN’(\p{Zs}+)T\b	DIDN’T	1	1	1
+\bdidn’(\p{Zs}+)t\b	didn’t	1	1	1
+\bDoesn(\p{Zs}+)'(\p{Zs}+)t\b	Doesn't	1	1	1
+\bDOESN(\p{Zs}+)'(\p{Zs}+)T\b	DOESN'T	1	1	1
+\bdoesn(\p{Zs}+)'(\p{Zs}+)t\b	doesn't	1	1	1
+\bDoesn(\p{Zs}+)’(\p{Zs}+)t\b	Doesn’t	1	1	1
+\bDOESN(\p{Zs}+)’(\p{Zs}+)T\b	DOESN’T	1	1	1
+\bdoesn(\p{Zs}+)’(\p{Zs}+)t\b	doesn’t	1	1	1
+\bDoesn(\p{Zs}+)’t\b	Doesn’t	1	1	1
+\bDOESN(\p{Zs}+)’T\b	DOESN’T	1	1	1
+\bdoesn(\p{Zs}+)’t\b	doesn’t	1	1	1
+\bDoesn(\p{Zs}+)'t\b	Doesn't	1	1	1
+\bDOESN(\p{Zs}+)'T\b	DOESN'T	1	1	1
+\bdoesn(\p{Zs}+)'t\b	doesn't	1	1	1
+\bDoesn'(\p{Zs}+)t\b	Doesn't	1	1	1
+\bDOESN'(\p{Zs}+)T\b	DOESN'T	1	1	1
+\bdoesn'(\p{Zs}+)t\b	doesn't	1	1	1
+\bDoesn’(\p{Zs}+)t\b	Doesn’t	1	1	1
+\bDOESN’(\p{Zs}+)T\b	DOESN’T	1	1	1
+\bdoesn’(\p{Zs}+)t\b	doesn’t	1	1	1
+\bDon(\p{Zs}+)'(\p{Zs}+)t\b	Don't	1	1	1
+\bDON(\p{Zs}+)'(\p{Zs}+)T\b	DON'T	1	1	1
+\bdon(\p{Zs}+)'(\p{Zs}+)t\b	don't	1	1	1
+\bDon(\p{Zs}+)’(\p{Zs}+)t\b	Don’t	1	1	1
+\bDON(\p{Zs}+)’(\p{Zs}+)T\b	DON’T	1	1	1
+\bdon(\p{Zs}+)’(\p{Zs}+)t\b	don’t	1	1	1
+\bDon(\p{Zs}+)’t\b	Don’t	1	1	1
+\bDON(\p{Zs}+)’T\b	DON’T	1	1	1
+\bdon(\p{Zs}+)’t\b	don’t	1	1	1
+\bDon(\p{Zs}+)'t\b	Don't	1	1	1
+\bDON(\p{Zs}+)'T\b	DON'T	1	1	1
+\bdon(\p{Zs}+)'t\b	don't	1	1	1
+\bDon'(\p{Zs}+)t\b	Don't	1	1	1
+\bDON'(\p{Zs}+)T\b	DON'T	1	1	1
+\bdon'(\p{Zs}+)t\b	don't	1	1	1
+\bDon’(\p{Zs}+)t\b	Don’t	1	1	1
+\bDON’(\p{Zs}+)T\b	DON’T	1	1	1
+\bdon’(\p{Zs}+)t\b	don’t	1	1	1
+\bElse(\p{Zs}+)'(\p{Zs}+)s\b	Else's	1	1	1
+\belse(\p{Zs}+)'(\p{Zs}+)s\b	else's	1	1	1
+\bELSE(\p{Zs}+)'(\p{Zs}+)S\b	ELSE'S	1	1	1
+\bElse(\p{Zs}+)’(\p{Zs}+)s\b	Else’s	1	1	1
+\belse(\p{Zs}+)’(\p{Zs}+)s\b	else’s	1	1	1
+\bELSE(\p{Zs}+)’(\p{Zs}+)S\b	ELSE’S	1	1	1
+\bElse(\p{Zs}+)’s\b	Else’s	1	1	1
+\belse(\p{Zs}+)’s\b	else’s	1	1	1
+\bELSE(\p{Zs}+)’S\b	ELSE’S	1	1	1
+\bElse(\p{Zs}+)'s\b	Else's	1	1	1
+\belse(\p{Zs}+)'s\b	else's	1	1	1
+\bELSE(\p{Zs}+)'S\b	ELSE'S	1	1	1
+\bElse'(\p{Zs}+)s\b	Else's	1	1	1
+\belse'(\p{Zs}+)s\b	else's	1	1	1
+\bELSE'(\p{Zs}+)S\b	ELSE'S	1	1	1
+\bElse’(\p{Zs}+)s\b	Else’s	1	1	1
+\belse’(\p{Zs}+)s\b	else’s	1	1	1
+\bELSE’(\p{Zs}+)S\b	ELSE’S	1	1	1
+\bFather(\p{Zs}+)'(\p{Zs}+)s\b	Father's	1	1	1
+\bfather(\p{Zs}+)'(\p{Zs}+)s\b	father's	1	1	1
+\bFATHER(\p{Zs}+)'(\p{Zs}+)S\b	FATHER'S	1	1	1
+\bFather(\p{Zs}+)’(\p{Zs}+)s\b	Father’s	1	1	1
+\bfather(\p{Zs}+)’(\p{Zs}+)s\b	father’s	1	1	1
+\bFATHER(\p{Zs}+)’(\p{Zs}+)S\b	FATHER’S	1	1	1
+\bFather(\p{Zs}+)’s\b	Father’s	1	1	1
+\bfather(\p{Zs}+)’s\b	father’s	1	1	1
+\bFATHER(\p{Zs}+)’S\b	FATHER’S	1	1	1
+\bFather(\p{Zs}+)'s\b	Father's	1	1	1
+\bfather(\p{Zs}+)'s\b	father's	1	1	1
+\bFATHER(\p{Zs}+)'S\b	FATHER'S	1	1	1
+\bFather'(\p{Zs}+)s\b	Father's	1	1	1
+\bfather'(\p{Zs}+)s\b	father's	1	1	1
+\bFATHER'(\p{Zs}+)S\b	FATHER'S	1	1	1
+\bFather’(\p{Zs}+)s\b	Father’s	1	1	1
+\bfather’(\p{Zs}+)s\b	father’s	1	1	1
+\bFATHER’(\p{Zs}+)S\b	FATHER’S	1	1	1
+\bFloor(\p{Zs}+)'(\p{Zs}+)s\b	Floor's	1	1	1
+\bFLOOR(\p{Zs}+)'(\p{Zs}+)S\b	FLOOR'S	1	1	1
+\bfloor(\p{Zs}+)'(\p{Zs}+)s\b	floor's	1	1	1
+\bFloor(\p{Zs}+)’(\p{Zs}+)s\b	Floor’s	1	1	1
+\bFLOOR(\p{Zs}+)’(\p{Zs}+)S\b	FLOOR’S	1	1	1
+\bfloor(\p{Zs}+)’(\p{Zs}+)s\b	floor’s	1	1	1
+\bFloor(\p{Zs}+)’s\b	Floor’s	1	1	1
+\bFLOOR(\p{Zs}+)’S\b	FLOOR’S	1	1	1
+\bfloor(\p{Zs}+)’s\b	floor’s	1	1	1
+\bFloor(\p{Zs}+)'s\b	Floor's	1	1	1
+\bFLOOR(\p{Zs}+)'S\b	FLOOR'S	1	1	1
+\bfloor(\p{Zs}+)'s\b	floor's	1	1	1
+\bFloor'(\p{Zs}+)s\b	Floor's	1	1	1
+\bFLOOR'(\p{Zs}+)S\b	FLOOR'S	1	1	1
+\bfloor'(\p{Zs}+)s\b	floor's	1	1	1
+\bFloor’(\p{Zs}+)s\b	Floor’s	1	1	1
+\bFLOOR’(\p{Zs}+)S\b	FLOOR’S	1	1	1
+\bfloor’(\p{Zs}+)s\b	floor’s	1	1	1
+\bFreewind(\p{Zs}+)'(\p{Zs}+)s\b	Freewind's	1	1	1
+\bFREEWIND(\p{Zs}+)'(\p{Zs}+)S\b	FREEWIND'S	1	1	1
+\bfreewind(\p{Zs}+)'(\p{Zs}+)s\b	freewind's	1	1	1
+\bFreewind(\p{Zs}+)’(\p{Zs}+)s\b	Freewind’s	1	1	1
+\bFREEWIND(\p{Zs}+)’(\p{Zs}+)S\b	FREEWIND’S	1	1	1
+\bfreewind(\p{Zs}+)’(\p{Zs}+)s\b	freewind’s	1	1	1
+\bFreewind(\p{Zs}+)’s\b	Freewind’s	1	1	1
+\bFREEWIND(\p{Zs}+)’S\b	FREEWIND’S	1	1	1
+\bfreewind(\p{Zs}+)’s\b	freewind’s	1	1	1
+\bFreewind(\p{Zs}+)'s\b	Freewind's	1	1	1
+\bFREEWIND(\p{Zs}+)'S\b	FREEWIND'S	1	1	1
+\bfreewind(\p{Zs}+)'s\b	freewind's	1	1	1
+\bFreewind'(\p{Zs}+)s\b	Freewind's	1	1	1
+\bFREEWIND'(\p{Zs}+)S\b	FREEWIND'S	1	1	1
+\bfreewind'(\p{Zs}+)s\b	freewind's	1	1	1
+\bFreewind’(\p{Zs}+)s\b	Freewind’s	1	1	1
+\bFREEWIND’(\p{Zs}+)S\b	FREEWIND’S	1	1	1
+\bfreewind’(\p{Zs}+)s\b	freewind’s	1	1	1
+\bGovernor(\p{Zs}+)'(\p{Zs}+)s\b	Governor's	1	1	1
+\bGOVERNOR(\p{Zs}+)'(\p{Zs}+)S\b	GOVERNOR'S	1	1	1
+\bgovernor(\p{Zs}+)'(\p{Zs}+)s\b	governor's	1	1	1
+\bGovernor(\p{Zs}+)’(\p{Zs}+)s\b	Governor’s	1	1	1
+\bGOVERNOR(\p{Zs}+)’(\p{Zs}+)S\b	GOVERNOR’S	1	1	1
+\bgovernor(\p{Zs}+)’(\p{Zs}+)s\b	governor’s	1	1	1
+\bGovernor(\p{Zs}+)’s\b	Governor’s	1	1	1
+\bGOVERNOR(\p{Zs}+)’S\b	GOVERNOR’S	1	1	1
+\bgovernor(\p{Zs}+)’s\b	governor’s	1	1	1
+\bGovernor(\p{Zs}+)'s\b	Governor's	1	1	1
+\bGOVERNOR(\p{Zs}+)'S\b	GOVERNOR'S	1	1	1
+\bgovernor(\p{Zs}+)'s\b	governor's	1	1	1
+\bGovernor'(\p{Zs}+)s\b	Governor's	1	1	1
+\bGOVERNOR'(\p{Zs}+)S\b	GOVERNOR'S	1	1	1
+\bgovernor'(\p{Zs}+)s\b	governor's	1	1	1
+\bGovernor’(\p{Zs}+)s\b	Governor’s	1	1	1
+\bGOVERNOR’(\p{Zs}+)S\b	GOVERNOR’S	1	1	1
+\bgovernor’(\p{Zs}+)s\b	governor’s	1	1	1
+\bHadn(\p{Zs}+)'(\p{Zs}+)t\b	Hadn't	1	1	1
+\bHADN(\p{Zs}+)'(\p{Zs}+)T\b	HADN'T	1	1	1
+\bhadn(\p{Zs}+)'(\p{Zs}+)t\b	hadn't	1	1	1
+\bHadn(\p{Zs}+)’(\p{Zs}+)t\b	Hadn’t	1	1	1
+\bHADN(\p{Zs}+)’(\p{Zs}+)T\b	HADN’T	1	1	1
+\bhadn(\p{Zs}+)’(\p{Zs}+)t\b	hadn’t	1	1	1
+\bHadn(\p{Zs}+)’t\b	Hadn’t	1	1	1
+\bHADN(\p{Zs}+)’T\b	HADN’T	1	1	1
+\bhadn(\p{Zs}+)’t\b	hadn’t	1	1	1
+\bHadn(\p{Zs}+)'t\b	Hadn't	1	1	1
+\bHADN(\p{Zs}+)'T\b	HADN'T	1	1	1
+\bhadn(\p{Zs}+)'t\b	hadn't	1	1	1
+\bHadn'(\p{Zs}+)t\b	Hadn't	1	1	1
+\bHADN'(\p{Zs}+)T\b	HADN'T	1	1	1
+\bhadn'(\p{Zs}+)t\b	hadn't	1	1	1
+\bHadn’(\p{Zs}+)t\b	Hadn’t	1	1	1
+\bHADN’(\p{Zs}+)T\b	HADN’T	1	1	1
+\bhadn’(\p{Zs}+)t\b	hadn’t	1	1	1
+\bHasn(\p{Zs}+)'(\p{Zs}+)t\b	Hasn't	1	1	1
+\bHASN(\p{Zs}+)'(\p{Zs}+)T\b	HASN'T	1	1	1
+\bhasn(\p{Zs}+)'(\p{Zs}+)t\b	hasn't	1	1	1
+\bHasn(\p{Zs}+)’(\p{Zs}+)t\b	Hasn’t	1	1	1
+\bHASN(\p{Zs}+)’(\p{Zs}+)T\b	HASN’T	1	1	1
+\bhasn(\p{Zs}+)’(\p{Zs}+)t\b	hasn’t	1	1	1
+\bHasn(\p{Zs}+)’t\b	Hasn’t	1	1	1
+\bHASN(\p{Zs}+)’T\b	HASN’T	1	1	1
+\bhasn(\p{Zs}+)’t\b	hasn’t	1	1	1
+\bHasn(\p{Zs}+)'t\b	Hasn't	1	1	1
+\bHASN(\p{Zs}+)'T\b	HASN'T	1	1	1
+\bhasn(\p{Zs}+)'t\b	hasn't	1	1	1
+\bHasn'(\p{Zs}+)t\b	Hasn't	1	1	1
+\bHASN'(\p{Zs}+)T\b	HASN'T	1	1	1
+\bhasn'(\p{Zs}+)t\b	hasn't	1	1	1
+\bHasn’(\p{Zs}+)t\b	Hasn’t	1	1	1
+\bHASN’(\p{Zs}+)T\b	HASN’T	1	1	1
+\bhasn’(\p{Zs}+)t\b	hasn’t	1	1	1
+\bHaven(\p{Zs}+)'(\p{Zs}+)t\b	Haven't	1	1	1
+\bHAVEN(\p{Zs}+)'(\p{Zs}+)T\b	HAVEN'T	1	1	1
+\bhaven(\p{Zs}+)'(\p{Zs}+)t\b	haven't	1	1	1
+\bHaven(\p{Zs}+)’(\p{Zs}+)t\b	Haven’t	1	1	1
+\bHAVEN(\p{Zs}+)’(\p{Zs}+)T\b	HAVEN’T	1	1	1
+\bhaven(\p{Zs}+)’(\p{Zs}+)t\b	haven’t	1	1	1
+\bHaven(\p{Zs}+)’t\b	Haven’t	1	1	1
+\bHAVEN(\p{Zs}+)’T\b	HAVEN’T	1	1	1
+\bhaven(\p{Zs}+)’t\b	haven’t	1	1	1
+\bHaven(\p{Zs}+)'t\b	Haven't	1	1	1
+\bHAVEN(\p{Zs}+)'T\b	HAVEN'T	1	1	1
+\bhaven(\p{Zs}+)'t\b	haven't	1	1	1
+\bHaven'(\p{Zs}+)t\b	Haven't	1	1	1
+\bHAVEN'(\p{Zs}+)T\b	HAVEN'T	1	1	1
+\bhaven'(\p{Zs}+)t\b	haven't	1	1	1
+\bHaven’(\p{Zs}+)t\b	Haven’t	1	1	1
+\bHAVEN’(\p{Zs}+)T\b	HAVEN’T	1	1	1
+\bhaven’(\p{Zs}+)t\b	haven’t	1	1	1
+\bHe(\p{Zs}+)'(\p{Zs}+)d\b	He'd	1	1	1
+\bHE(\p{Zs}+)'(\p{Zs}+)D\b	HE'D	1	1	1
+\bhe(\p{Zs}+)'(\p{Zs}+)d\b	he'd	1	1	1
+\bHe(\p{Zs}+)'(\p{Zs}+)ll\b	He'll	1	1	1
+\bHE(\p{Zs}+)'(\p{Zs}+)LL\b	HE'LL	1	1	1
+\bhe(\p{Zs}+)'(\p{Zs}+)ll\b	he'll	1	1	1
+\bHe(\p{Zs}+)'(\p{Zs}+)s\b	He's	1	1	1
+\bHE(\p{Zs}+)'(\p{Zs}+)S\b	HE'S	1	1	1
+\bhe(\p{Zs}+)'(\p{Zs}+)s\b	he's	1	1	1
+\bHe(\p{Zs}+)’(\p{Zs}+)d\b	He’d	1	1	1
+\bHE(\p{Zs}+)’(\p{Zs}+)D\b	HE’D	1	1	1
+\bhe(\p{Zs}+)’(\p{Zs}+)d\b	he’d	1	1	1
+\bHe(\p{Zs}+)’(\p{Zs}+)ll\b	He’ll	1	1	1
+\bHE(\p{Zs}+)’(\p{Zs}+)LL\b	HE’LL	1	1	1
+\bhe(\p{Zs}+)’(\p{Zs}+)ll\b	he’ll	1	1	1
+\bHe(\p{Zs}+)’(\p{Zs}+)s\b	He’s	1	1	1
+\bHE(\p{Zs}+)’(\p{Zs}+)S\b	HE’S	1	1	1
+\bhe(\p{Zs}+)’(\p{Zs}+)s\b	he’s	1	1	1
+\bHe(\p{Zs}+)’d\b	He’d	1	1	1
+\bHE(\p{Zs}+)’D\b	HE’D	1	1	1
+\bhe(\p{Zs}+)’d\b	he’d	1	1	1
+\bHe(\p{Zs}+)’ll\b	He’ll	1	1	1
+\bHE(\p{Zs}+)’LL\b	HE’LL	1	1	1
+\bhe(\p{Zs}+)’ll\b	he’ll	1	1	1
+\bHe(\p{Zs}+)’s\b	He’s	1	1	1
+\bHE(\p{Zs}+)’S\b	HE’S	1	1	1
+\bhe(\p{Zs}+)’s\b	he’s	1	1	1
+\bHe(\p{Zs}+)'d\b	He'd	1	1	1
+\bHE(\p{Zs}+)'D\b	HE'D	1	1	1
+\bhe(\p{Zs}+)'d\b	he'd	1	1	1
+\bHe'(\p{Zs}+)d\b	He'd	1	1	1
+\bHE'(\p{Zs}+)D\b	HE'D	1	1	1
+\bhe'(\p{Zs}+)d\b	he'd	1	1	1
+\bHe(\p{Zs}+)'ll\b	He'll	1	1	1
+\bHE(\p{Zs}+)'LL\b	HE'LL	1	1	1
+\bhe(\p{Zs}+)'ll\b	he'll	1	1	1
+\bHe'(\p{Zs}+)ll\b	He'll	1	1	1
+\bHE'(\p{Zs}+)LL\b	HE'LL	1	1	1
+\bhe'(\p{Zs}+)ll\b	he'll	1	1	1
+\bHe(\p{Zs}+)'s\b	He's	1	1	1
+\bHE(\p{Zs}+)'S\b	HE'S	1	1	1
+\bhe(\p{Zs}+)'s\b	he's	1	1	1
+\bHe'(\p{Zs}+)s\b	He's	1	1	1
+\bHE'(\p{Zs}+)S\b	HE'S	1	1	1
+\bhe'(\p{Zs}+)s\b	he's	1	1	1
+\bHe’(\p{Zs}+)d\b	He’d	1	1	1
+\bHE’(\p{Zs}+)D\b	HE’D	1	1	1
+\bhe’(\p{Zs}+)d\b	he’d	1	1	1
+\bHe’(\p{Zs}+)ll\b	He’ll	1	1	1
+\bHE’(\p{Zs}+)LL\b	HE’LL	1	1	1
+\bhe’(\p{Zs}+)ll\b	he’ll	1	1	1
+\bHe’(\p{Zs}+)s\b	He’s	1	1	1
+\bHE’(\p{Zs}+)S\b	HE’S	1	1	1
+\bhe’(\p{Zs}+)s\b	he’s	1	1	1
+\bHere(\p{Zs}+)'(\p{Zs}+)s\b	Here's	1	1	1
+\bhere(\p{Zs}+)'(\p{Zs}+)s\b	here's	1	1	1
+\bHERE(\p{Zs}+)'(\p{Zs}+)S\b	HERE'S	1	1	1
+\bHere(\p{Zs}+)’(\p{Zs}+)s\b	Here’s	1	1	1
+\bhere(\p{Zs}+)’(\p{Zs}+)s\b	here’s	1	1	1
+\bHERE(\p{Zs}+)’(\p{Zs}+)S\b	HERE’S	1	1	1
+\bHere(\p{Zs}+)’s\b	Here’s	1	1	1
+\bhere(\p{Zs}+)’s\b	here’s	1	1	1
+\bHERE(\p{Zs}+)’S\b	HERE’S	1	1	1
+\bHere(\p{Zs}+)'s\b	Here's	1	1	1
+\bhere(\p{Zs}+)'s\b	here's	1	1	1
+\bHERE(\p{Zs}+)'S\b	HERE'S	1	1	1
+\bHere'(\p{Zs}+)s\b	Here's	1	1	1
+\bhere'(\p{Zs}+)s\b	here's	1	1	1
+\bHERE'(\p{Zs}+)S\b	HERE'S	1	1	1
+\bHere’(\p{Zs}+)s\b	Here’s	1	1	1
+\bhere’(\p{Zs}+)s\b	here’s	1	1	1
+\bHERE’(\p{Zs}+)S\b	HERE’S	1	1	1
+\bHow(\p{Zs}+)'(\p{Zs}+)s\b	How's	1	1	1
+\bhow(\p{Zs}+)'(\p{Zs}+)s\b	how's	1	1	1
+\bHOW(\p{Zs}+)'(\p{Zs}+)S\b	HOW'S	1	1	1
+\bHow(\p{Zs}+)’(\p{Zs}+)s\b	How’s	1	1	1
+\bhow(\p{Zs}+)’(\p{Zs}+)s\b	how’s	1	1	1
+\bHOW(\p{Zs}+)’(\p{Zs}+)S\b	HOW’S	1	1	1
+\bHow(\p{Zs}+)’s\b	How’s	1	1	1
+\bhow(\p{Zs}+)’s\b	how’s	1	1	1
+\bHOW(\p{Zs}+)’S\b	HOW’S	1	1	1
+\bHow(\p{Zs}+)'s\b	How's	1	1	1
+\bhow(\p{Zs}+)'s\b	how's	1	1	1
+\bHOW(\p{Zs}+)'S\b	HOW'S	1	1	1
+\bHow'(\p{Zs}+)s\b	How's	1	1	1
+\bhow'(\p{Zs}+)s\b	how's	1	1	1
+\bHOW'(\p{Zs}+)S\b	HOW'S	1	1	1
+\bHow’(\p{Zs}+)s\b	How’s	1	1	1
+\bhow’(\p{Zs}+)s\b	how’s	1	1	1
+\bHOW’(\p{Zs}+)S\b	HOW’S	1	1	1
+\bI(\p{Zs}+)'(\p{Zs}+)d\b	I'd	1	1	1
+\bI(\p{Zs}+)'(\p{Zs}+)D\b	I'D	1	1	1
+\bi(\p{Zs}+)'(\p{Zs}+)d\b	I'd	1	1	1
+\bI(\p{Zs}+)'(\p{Zs}+)ll\b	I'll	1	1	1
+\bI(\p{Zs}+)'(\p{Zs}+)LL\b	I'LL	1	1	1
+\bi(\p{Zs}+)'(\p{Zs}+)ll\b	I'll	1	1	1
+\bI(\p{Zs}+)'(\p{Zs}+)m\b	I'm	1	1	1
+\bI(\p{Zs}+)'(\p{Zs}+)M\b	I'M	1	1	1
+\bi(\p{Zs}+)'(\p{Zs}+)m\b	I'm	1	1	1
+\bI(\p{Zs}+)'(\p{Zs}+)ve\b	I've	1	1	1
+\bI(\p{Zs}+)'(\p{Zs}+)VE\b	I'VE	1	1	1
+\bi(\p{Zs}+)'(\p{Zs}+)ve\b	I've	1	1	1
+\bI(\p{Zs}+)’(\p{Zs}+)d\b	I’d	1	1	1
+\bI(\p{Zs}+)’(\p{Zs}+)D\b	I’D	1	1	1
+\bi(\p{Zs}+)’(\p{Zs}+)d\b	I’d	1	1	1
+\bI(\p{Zs}+)’(\p{Zs}+)ll\b	I’ll	1	1	1
+\bI(\p{Zs}+)’(\p{Zs}+)LL\b	I’LL	1	1	1
+\bi(\p{Zs}+)’(\p{Zs}+)ll\b	I’ll	1	1	1
+\bI(\p{Zs}+)’(\p{Zs}+)m\b	I’m	1	1	1
+\bI(\p{Zs}+)’(\p{Zs}+)M\b	I’M	1	1	1
+\bi(\p{Zs}+)’(\p{Zs}+)m\b	I’m	1	1	1
+\bI(\p{Zs}+)’(\p{Zs}+)ve\b	I’ve	1	1	1
+\bI(\p{Zs}+)’(\p{Zs}+)VE\b	I’VE	1	1	1
+\bi(\p{Zs}+)’(\p{Zs}+)ve\b	I’ve	1	1	1
+\bI(\p{Zs}+)’d\b	I’d	1	1	1
+\bI(\p{Zs}+)’D\b	I’D	1	1	1
+\bi(\p{Zs}+)’d\b	I’d	1	1	1
+\bI(\p{Zs}+)’ll\b	I’ll	1	1	1
+\bI(\p{Zs}+)’LL\b	I’LL	1	1	1
+\bi(\p{Zs}+)’ll\b	I’ll	1	1	1
+\bI(\p{Zs}+)’m\b	I’m	1	1	1
+\bI(\p{Zs}+)’M\b	I’M	1	1	1
+\bi(\p{Zs}+)’m\b	I’m	1	1	1
+\bI(\p{Zs}+)’ve\b	I’ve	1	1	1
+\bI(\p{Zs}+)’VE\b	I’VE	1	1	1
+\bi(\p{Zs}+)’ve\b	I’ve	1	1	1
+\bI(\p{Zs}+)'d\b	I'd	1	1	1
+\bI(\p{Zs}+)'D\b	I'D	1	1	1
+\bi(\p{Zs}+)'d\b	I'd	1	1	1
+\bI'(\p{Zs}+)d\b	I'd	1	1	1
+\bI'(\p{Zs}+)D\b	I'D	1	1	1
+\bi'(\p{Zs}+)d\b	I'd	1	1	1
+\bI(\p{Zs}+)'ll\b	I'll	1	1	1
+\bI(\p{Zs}+)'LL\b	I'LL	1	1	1
+\bi(\p{Zs}+)'ll\b	I'll	1	1	1
+\bI'(\p{Zs}+)ll\b	I'll	1	1	1
+\bI'(\p{Zs}+)LL\b	I'LL	1	1	1
+\bi'(\p{Zs}+)ll\b	I'll	1	1	1
+\bI(\p{Zs}+)'m\b	I'm	1	1	1
+\bI(\p{Zs}+)'M\b	I'M	1	1	1
+\bi(\p{Zs}+)'m\b	I'm	1	1	1
+\bI'(\p{Zs}+)m\b	I'm	1	1	1
+\bI'(\p{Zs}+)M\b	I'M	1	1	1
+\bi'(\p{Zs}+)m\b	I'm	1	1	1
+\bI(\p{Zs}+)'ve\b	I've	1	1	1
+\bI(\p{Zs}+)'VE\b	I'VE	1	1	1
+\bi(\p{Zs}+)'ve\b	I've	1	1	1
+\bI'(\p{Zs}+)ve\b	I've	1	1	1
+\bI'(\p{Zs}+)VE\b	I'VE	1	1	1
+\bi'(\p{Zs}+)ve\b	I've	1	1	1
+\bI’(\p{Zs}+)d\b	I’d	1	1	1
+\bI’(\p{Zs}+)D\b	I’D	1	1	1
+\bi’(\p{Zs}+)d\b	I’d	1	1	1
+\bI’(\p{Zs}+)ll\b	I’ll	1	1	1
+\bI’(\p{Zs}+)LL\b	I’LL	1	1	1
+\bi’(\p{Zs}+)ll\b	I’ll	1	1	1
+\bI’(\p{Zs}+)m\b	I’m	1	1	1
+\bI’(\p{Zs}+)M\b	I’M	1	1	1
+\bi’(\p{Zs}+)m\b	I’m	1	1	1
+\bI’(\p{Zs}+)ve\b	I’ve	1	1	1
+\bI’(\p{Zs}+)VE\b	I’VE	1	1	1
+\bi’(\p{Zs}+)ve\b	I’ve	1	1	1
+\bIsn(\p{Zs}+)'(\p{Zs}+)t\b	Isn't	1	1	1
+\bISN(\p{Zs}+)'(\p{Zs}+)T\b	ISN'T	1	1	1
+\bisn(\p{Zs}+)'(\p{Zs}+)t\b	isn't	1	1	1
+\bIsn(\p{Zs}+)’(\p{Zs}+)t\b	Isn’t	1	1	1
+\bISN(\p{Zs}+)’(\p{Zs}+)T\b	ISN’T	1	1	1
+\bisn(\p{Zs}+)’(\p{Zs}+)t\b	isn’t	1	1	1
+\bIsn(\p{Zs}+)’t\b	Isn’t	1	1	1
+\bISN(\p{Zs}+)’T\b	ISN’T	1	1	1
+\bisn(\p{Zs}+)’t\b	isn’t	1	1	1
+\bIsn(\p{Zs}+)'t\b	Isn't	1	1	1
+\bISN(\p{Zs}+)'T\b	ISN'T	1	1	1
+\bisn(\p{Zs}+)'t\b	isn't	1	1	1
+\bIsn'(\p{Zs}+)t\b	Isn't	1	1	1
+\bISN'(\p{Zs}+)T\b	ISN'T	1	1	1
+\bisn'(\p{Zs}+)t\b	isn't	1	1	1
+\bIsn’(\p{Zs}+)t\b	Isn’t	1	1	1
+\bISN’(\p{Zs}+)T\b	ISN’T	1	1	1
+\bisn’(\p{Zs}+)t\b	isn’t	1	1	1
+\bIt(\p{Zs}+)'(\p{Zs}+)d\b	It'd	1	1	1
+\bIT(\p{Zs}+)'(\p{Zs}+)D\b	IT'D	1	1	1
+\bit(\p{Zs}+)'(\p{Zs}+)d\b	it'd	1	1	1
+\bIt(\p{Zs}+)'(\p{Zs}+)ll\b	It'll	1	1	1
+\bIT(\p{Zs}+)'(\p{Zs}+)LL\b	IT'LL	1	1	1
+\bit(\p{Zs}+)'(\p{Zs}+)ll\b	it'll	1	1	1
+\bIt(\p{Zs}+)'(\p{Zs}+)s\b	It's	1	1	1
+\bIT(\p{Zs}+)'(\p{Zs}+)S\b	IT'S	1	1	1
+\bit(\p{Zs}+)'(\p{Zs}+)s\b	it's	1	1	1
+\bIt(\p{Zs}+)’(\p{Zs}+)d\b	It’d	1	1	1
+\bIT(\p{Zs}+)’(\p{Zs}+)D\b	IT’D	1	1	1
+\bit(\p{Zs}+)’(\p{Zs}+)d\b	it’d	1	1	1
+\bIt(\p{Zs}+)’(\p{Zs}+)ll\b	It’ll	1	1	1
+\bIT(\p{Zs}+)’(\p{Zs}+)LL\b	IT’LL	1	1	1
+\bit(\p{Zs}+)’(\p{Zs}+)ll\b	it’ll	1	1	1
+\bIt(\p{Zs}+)’(\p{Zs}+)s\b	It’s	1	1	1
+\bIT(\p{Zs}+)’(\p{Zs}+)S\b	IT’S	1	1	1
+\bit(\p{Zs}+)’(\p{Zs}+)s\b	it’s	1	1	1
+\bIt(\p{Zs}+)’d\b	It’d	1	1	1
+\bIT(\p{Zs}+)’D\b	IT’D	1	1	1
+\bit(\p{Zs}+)’d\b	it’d	1	1	1
+\bIt(\p{Zs}+)’ll\b	It’ll	1	1	1
+\bIT(\p{Zs}+)’LL\b	IT’LL	1	1	1
+\bit(\p{Zs}+)’ll\b	it’ll	1	1	1
+\bIt(\p{Zs}+)’s\b	It’s	1	1	1
+\bIT(\p{Zs}+)’S\b	IT’S	1	1	1
+\bit(\p{Zs}+)’s\b	it’s	1	1	1
+\bIt(\p{Zs}+)'d\b	It'd	1	1	1
+\bIT(\p{Zs}+)'D\b	IT'D	1	1	1
+\bit(\p{Zs}+)'d\b	it'd	1	1	1
+\bIt'(\p{Zs}+)d\b	It'd	1	1	1
+\bIT'(\p{Zs}+)D\b	IT'D	1	1	1
+\bit'(\p{Zs}+)d\b	it'd	1	1	1
+\bIt(\p{Zs}+)'ll\b	It'll	1	1	1
+\bIT(\p{Zs}+)'LL\b	IT'LL	1	1	1
+\bit(\p{Zs}+)'ll\b	it'll	1	1	1
+\bIt'(\p{Zs}+)ll\b	It'll	1	1	1
+\bIT'(\p{Zs}+)LL\b	IT'LL	1	1	1
+\bit'(\p{Zs}+)ll\b	it'll	1	1	1
+\bIt(\p{Zs}+)'s\b	It's	1	1	1
+\bIT(\p{Zs}+)'S\b	IT'S	1	1	1
+\bit(\p{Zs}+)'s\b	it's	1	1	1
+\bIt'(\p{Zs}+)s\b	It's	1	1	1
+\bIT'(\p{Zs}+)S\b	IT'S	1	1	1
+\bit'(\p{Zs}+)s\b	it's	1	1	1
+\bIt’(\p{Zs}+)d\b	It’d	1	1	1
+\bIT’(\p{Zs}+)D\b	IT’D	1	1	1
+\bit’(\p{Zs}+)d\b	it’d	1	1	1
+\bIt’(\p{Zs}+)ll\b	It’ll	1	1	1
+\bIT’(\p{Zs}+)LL\b	IT’LL	1	1	1
+\bit’(\p{Zs}+)ll\b	it’ll	1	1	1
+\bIt’(\p{Zs}+)s\b	It’s	1	1	1
+\bIT’(\p{Zs}+)S\b	IT’S	1	1	1
+\bit’(\p{Zs}+)s\b	it’s	1	1	1
+\bLet(\p{Zs}+)'(\p{Zs}+)s\b	Let's	1	1	1
+\blet(\p{Zs}+)'(\p{Zs}+)s\b	let's	1	1	1
+\bLET(\p{Zs}+)'(\p{Zs}+)S\b	LET'S	1	1	1
+\bLet(\p{Zs}+)’(\p{Zs}+)s\b	Let’s	1	1	1
+\blet(\p{Zs}+)’(\p{Zs}+)s\b	let’s	1	1	1
+\bLET(\p{Zs}+)’(\p{Zs}+)S\b	LET’S	1	1	1
+\bLet(\p{Zs}+)’s\b	Let’s	1	1	1
+\blet(\p{Zs}+)’s\b	let’s	1	1	1
+\bLET(\p{Zs}+)’S\b	LET’S	1	1	1
+\bLet(\p{Zs}+)'s\b	Let's	1	1	1
+\blet(\p{Zs}+)'s\b	let's	1	1	1
+\bLET(\p{Zs}+)'S\b	LET'S	1	1	1
+\bLet'(\p{Zs}+)s\b	Let's	1	1	1
+\blet'(\p{Zs}+)s\b	let's	1	1	1
+\bLET'(\p{Zs}+)S\b	LET'S	1	1	1
+\bLet’(\p{Zs}+)s\b	Let’s	1	1	1
+\blet’(\p{Zs}+)s\b	let’s	1	1	1
+\bLET’(\p{Zs}+)S\b	LET’S	1	1	1
+\bMan(\p{Zs}+)'(\p{Zs}+)s\b	Man's	1	1	1
+\bman(\p{Zs}+)'(\p{Zs}+)s\b	man's	1	1	1
+\bMAN(\p{Zs}+)'(\p{Zs}+)S\b	MAN'S	1	1	1
+\bMan(\p{Zs}+)’(\p{Zs}+)s\b	Man’s	1	1	1
+\bman(\p{Zs}+)’(\p{Zs}+)s\b	man’s	1	1	1
+\bMAN(\p{Zs}+)’(\p{Zs}+)S\b	MAN’S	1	1	1
+\bMan(\p{Zs}+)’s\b	Man’s	1	1	1
+\bman(\p{Zs}+)’s\b	man’s	1	1	1
+\bMAN(\p{Zs}+)’S\b	MAN’S	1	1	1
+\bMan(\p{Zs}+)'s\b	Man's	1	1	1
+\bman(\p{Zs}+)'s\b	man's	1	1	1
+\bMAN(\p{Zs}+)'S\b	MAN'S	1	1	1
+\bMan'(\p{Zs}+)s\b	Man's	1	1	1
+\bman'(\p{Zs}+)s\b	man's	1	1	1
+\bMAN'(\p{Zs}+)S\b	MAN'S	1	1	1
+\bMan’(\p{Zs}+)s\b	Man’s	1	1	1
+\bman’(\p{Zs}+)s\b	man’s	1	1	1
+\bMAN’(\p{Zs}+)S\b	MAN’S	1	1	1
+\bMother(\p{Zs}+)'(\p{Zs}+)s\b	Mother's	1	1	1
+\bmother(\p{Zs}+)'(\p{Zs}+)s\b	mother's	1	1	1
+\bMOTHER(\p{Zs}+)'(\p{Zs}+)S\b	MOTHER'S	1	1	1
+\bMother(\p{Zs}+)’(\p{Zs}+)s\b	Mother’s	1	1	1
+\bmother(\p{Zs}+)’(\p{Zs}+)s\b	mother’s	1	1	1
+\bMOTHER(\p{Zs}+)’(\p{Zs}+)S\b	MOTHER’S	1	1	1
+\bMother(\p{Zs}+)’s\b	Mother’s	1	1	1
+\bmother(\p{Zs}+)’s\b	mother’s	1	1	1
+\bMOTHER(\p{Zs}+)’S\b	MOTHER’S	1	1	1
+\bMother(\p{Zs}+)'s\b	Mother's	1	1	1
+\bmother(\p{Zs}+)'s\b	mother's	1	1	1
+\bMOTHER(\p{Zs}+)'S\b	MOTHER'S	1	1	1
+\bMother'(\p{Zs}+)s\b	Mother's	1	1	1
+\bmother'(\p{Zs}+)s\b	mother's	1	1	1
+\bMOTHER'(\p{Zs}+)S\b	MOTHER'S	1	1	1
+\bMother’(\p{Zs}+)s\b	Mother’s	1	1	1
+\bmother’(\p{Zs}+)s\b	mother’s	1	1	1
+\bMOTHER’(\p{Zs}+)S\b	MOTHER’S	1	1	1
+\bMustn(\p{Zs}+)'(\p{Zs}+)t\b	Mustn't	1	1	1
+\bmustn(\p{Zs}+)'(\p{Zs}+)t\b	mustn't	1	1	1
+\bMUSTN(\p{Zs}+)'(\p{Zs}+)T\b	MUSTN'T	1	1	1
+\bMustn(\p{Zs}+)’(\p{Zs}+)t\b	Mustn’t	1	1	1
+\bmustn(\p{Zs}+)’(\p{Zs}+)t\b	mustn’t	1	1	1
+\bMUSTN(\p{Zs}+)’(\p{Zs}+)T\b	MUSTN’T	1	1	1
+\bMustn(\p{Zs}+)’t\b	Mustn’t	1	1	1
+\bmustn(\p{Zs}+)’t\b	mustn’t	1	1	1
+\bMUSTN(\p{Zs}+)’T\b	MUSTN’T	1	1	1
+\bMustn(\p{Zs}+)'t\b	Mustn't	1	1	1
+\bmustn(\p{Zs}+)'t\b	mustn't	1	1	1
+\bMUSTN(\p{Zs}+)'T\b	MUSTN'T	1	1	1
+\bMustn'(\p{Zs}+)t\b	Mustn't	1	1	1
+\bmustn'(\p{Zs}+)t\b	mustn't	1	1	1
+\bMUSTN'(\p{Zs}+)T\b	MUSTN'T	1	1	1
+\bMustn’(\p{Zs}+)t\b	Mustn’t	1	1	1
+\bmustn’(\p{Zs}+)t\b	mustn’t	1	1	1
+\bMUSTN’(\p{Zs}+)T\b	MUSTN’T	1	1	1
+\bNeedn(\p{Zs}+)'(\p{Zs}+)t\b	Needn't	1	1	1
+\bneedn(\p{Zs}+)'(\p{Zs}+)t\b	needn't	1	1	1
+\bNEEDN(\p{Zs}+)'(\p{Zs}+)T\b	NEEDN'T	1	1	1
+\bNeedn(\p{Zs}+)’(\p{Zs}+)t\b	Needn’t	1	1	1
+\bneedn(\p{Zs}+)’(\p{Zs}+)t\b	needn’t	1	1	1
+\bNEEDN(\p{Zs}+)’(\p{Zs}+)T\b	NEEDN’T	1	1	1
+\bNeedn(\p{Zs}+)’t\b	Needn’t	1	1	1
+\bneedn(\p{Zs}+)’t\b	needn’t	1	1	1
+\bNEEDN(\p{Zs}+)’T\b	NEEDN’T	1	1	1
+\bNeedn(\p{Zs}+)'t\b	Needn't	1	1	1
+\bneedn(\p{Zs}+)'t\b	needn't	1	1	1
+\bNEEDN(\p{Zs}+)'T\b	NEEDN'T	1	1	1
+\bNeedn'(\p{Zs}+)t\b	Needn't	1	1	1
+\bneedn'(\p{Zs}+)t\b	needn't	1	1	1
+\bNEEDN'(\p{Zs}+)T\b	NEEDN'T	1	1	1
+\bNeedn’(\p{Zs}+)t\b	Needn’t	1	1	1
+\bneedn’(\p{Zs}+)t\b	needn’t	1	1	1
+\bNEEDN’(\p{Zs}+)T\b	NEEDN’T	1	1	1
+\bNeighbor(\p{Zs}+)'(\p{Zs}+)s\b	Neighbor's	1	1	1
+\bneighbor(\p{Zs}+)'(\p{Zs}+)s\b	neighbor's	1	1	1
+\bNEIGHBOR(\p{Zs}+)'(\p{Zs}+)S\b	NEIGHBOR'S	1	1	1
+\bNeighbor(\p{Zs}+)’(\p{Zs}+)s\b	Neighbor’s	1	1	1
+\bneighbor(\p{Zs}+)’(\p{Zs}+)s\b	neighbor’s	1	1	1
+\bNEIGHBOR(\p{Zs}+)’(\p{Zs}+)S\b	NEIGHBOR’S	1	1	1
+\bNeighbor(\p{Zs}+)’s\b	Neighbor’s	1	1	1
+\bneighbor(\p{Zs}+)’s\b	neighbor’s	1	1	1
+\bNEIGHBOR(\p{Zs}+)’S\b	NEIGHBOR’S	1	1	1
+\bNeighbor(\p{Zs}+)'s\b	Neighbor's	1	1	1
+\bneighbor(\p{Zs}+)'s\b	neighbor's	1	1	1
+\bNEIGHBOR(\p{Zs}+)'S\b	NEIGHBOR'S	1	1	1
+\bNeighbor'(\p{Zs}+)s\b	Neighbor's	1	1	1
+\bneighbor'(\p{Zs}+)s\b	neighbor's	1	1	1
+\bNEIGHBOR'(\p{Zs}+)S\b	NEIGHBOR'S	1	1	1
+\bNeighbor’(\p{Zs}+)s\b	Neighbor’s	1	1	1
+\bneighbor’(\p{Zs}+)s\b	neighbor’s	1	1	1
+\bNEIGHBOR’(\p{Zs}+)S\b	NEIGHBOR’S	1	1	1
+\bO(\p{Zs}+)'(\p{Zs}+)clock\b	O'clock	1	1	1
+\bO(\p{Zs}+)'(\p{Zs}+)CLOCK\b	O'CLOCK	1	1	1
+\bo(\p{Zs}+)'(\p{Zs}+)clock\b	o'clock	1	1	1
+\bO(\p{Zs}+)’(\p{Zs}+)clock\b	O’clock	1	1	1
+\bO(\p{Zs}+)’(\p{Zs}+)CLOCK\b	O’CLOCK	1	1	1
+\bo(\p{Zs}+)’(\p{Zs}+)clock\b	o’clock	1	1	1
+\bO(\p{Zs}+)’clock\b	O’clock	1	1	1
+\bO(\p{Zs}+)’CLOCK\b	O’CLOCK	1	1	1
+\bo(\p{Zs}+)’clock\b	o’clock	1	1	1
+\bO(\p{Zs}+)'clock\b	O'clock	1	1	1
+\bO(\p{Zs}+)'CLOCK\b	O'CLOCK	1	1	1
+\bo(\p{Zs}+)'clock\b	o'clock	1	1	1
+\bO'(\p{Zs}+)clock\b	O'clock	1	1	1
+\bO'(\p{Zs}+)CLOCK\b	O'CLOCK	1	1	1
+\bo'(\p{Zs}+)clock\b	o'clock	1	1	1
+\bO’(\p{Zs}+)clock\b	O’clock	1	1	1
+\bO’(\p{Zs}+)CLOCK\b	O’CLOCK	1	1	1
+\bo’(\p{Zs}+)clock\b	o’clock	1	1	1
+\bOne(\p{Zs}+)'(\p{Zs}+)s\b	One's	1	1	1
+\bone(\p{Zs}+)'(\p{Zs}+)s\b	one's	1	1	1
+\bONE(\p{Zs}+)'(\p{Zs}+)S\b	ONE'S	1	1	1
+\bOne(\p{Zs}+)’(\p{Zs}+)s\b	One’s	1	1	1
+\bone(\p{Zs}+)’(\p{Zs}+)s\b	one’s	1	1	1
+\bONE(\p{Zs}+)’(\p{Zs}+)S\b	ONE’S	1	1	1
+\bOne(\p{Zs}+)’s\b	One’s	1	1	1
+\bone(\p{Zs}+)’s\b	one’s	1	1	1
+\bONE(\p{Zs}+)’S\b	ONE’S	1	1	1
+\bOne(\p{Zs}+)'s\b	One's	1	1	1
+\bone(\p{Zs}+)'s\b	one's	1	1	1
+\bONE(\p{Zs}+)'S\b	ONE'S	1	1	1
+\bOne'(\p{Zs}+)s\b	One's	1	1	1
+\bone'(\p{Zs}+)s\b	one's	1	1	1
+\bONE'(\p{Zs}+)S\b	ONE'S	1	1	1
+\bOne’(\p{Zs}+)s\b	One’s	1	1	1
+\bone’(\p{Zs}+)s\b	one’s	1	1	1
+\bONE’(\p{Zs}+)S\b	ONE’S	1	1	1
+\bOrg(\p{Zs}+)'(\p{Zs}+)s\b	Org's	1	1	1
+\bORG(\p{Zs}+)'(\p{Zs}+)S\b	ORG'S	1	1	1
+\borg(\p{Zs}+)'(\p{Zs}+)s\b	org's	1	1	1
+\bOrg(\p{Zs}+)’(\p{Zs}+)s\b	Org’s	1	1	1
+\bORG(\p{Zs}+)’(\p{Zs}+)S\b	ORG’S	1	1	1
+\borg(\p{Zs}+)’(\p{Zs}+)s\b	org’s	1	1	1
+\bOrg(\p{Zs}+)’s\b	Org’s	1	1	1
+\bORG(\p{Zs}+)’S\b	ORG’S	1	1	1
+\borg(\p{Zs}+)’s\b	org’s	1	1	1
+\bOrg(\p{Zs}+)'s\b	Org's	1	1	1
+\bORG(\p{Zs}+)'S\b	ORG'S	1	1	1
+\borg(\p{Zs}+)'s\b	org's	1	1	1
+\bOrg'(\p{Zs}+)s\b	Org's	1	1	1
+\bORG'(\p{Zs}+)S\b	ORG'S	1	1	1
+\borg'(\p{Zs}+)s\b	org's	1	1	1
+\bOrg’(\p{Zs}+)s\b	Org’s	1	1	1
+\bORG’(\p{Zs}+)S\b	ORG’S	1	1	1
+\borg’(\p{Zs}+)s\b	org’s	1	1	1
+\bOther(\p{Zs}+)'(\p{Zs}+)s\b	Other's	1	1	1
+\bother(\p{Zs}+)'(\p{Zs}+)s\b	other's	1	1	1
+\bOTHER(\p{Zs}+)'(\p{Zs}+)S\b	OTHER'S	1	1	1
+\bOther(\p{Zs}+)’(\p{Zs}+)s\b	Other’s	1	1	1
+\bother(\p{Zs}+)’(\p{Zs}+)s\b	other’s	1	1	1
+\bOTHER(\p{Zs}+)’(\p{Zs}+)S\b	OTHER’S	1	1	1
+\bOther(\p{Zs}+)’s\b	Other’s	1	1	1
+\bother(\p{Zs}+)’s\b	other’s	1	1	1
+\bOTHER(\p{Zs}+)’S\b	OTHER’S	1	1	1
+\bOther(\p{Zs}+)'s\b	Other's	1	1	1
+\bother(\p{Zs}+)'s\b	other's	1	1	1
+\bOTHER(\p{Zs}+)'S\b	OTHER'S	1	1	1
+\bOther'(\p{Zs}+)s\b	Other's	1	1	1
+\bother'(\p{Zs}+)s\b	other's	1	1	1
+\bOTHER'(\p{Zs}+)S\b	OTHER'S	1	1	1
+\bOther’(\p{Zs}+)s\b	Other’s	1	1	1
+\bother’(\p{Zs}+)s\b	other’s	1	1	1
+\bOTHER’(\p{Zs}+)S\b	OTHER’S	1	1	1
+\bPc(\p{Zs}+)'(\p{Zs}+)s\b	Pc's	1	1	1
+\bpc(\p{Zs}+)'(\p{Zs}+)s\b	pc's	1	1	1
+\bPC(\p{Zs}+)'(\p{Zs}+)S\b	PC'S	1	1	1
+\bPc(\p{Zs}+)’(\p{Zs}+)s\b	Pc’s	1	1	1
+\bpc(\p{Zs}+)’(\p{Zs}+)s\b	pc’s	1	1	1
+\bPC(\p{Zs}+)’(\p{Zs}+)S\b	PC’S	1	1	1
+\bPc(\p{Zs}+)’s\b	Pc’s	1	1	1
+\bpc(\p{Zs}+)’s\b	pc’s	1	1	1
+\bPC(\p{Zs}+)’S\b	PC’S	1	1	1
+\bPc(\p{Zs}+)'s\b	Pc's	1	1	1
+\bpc(\p{Zs}+)'s\b	pc's	1	1	1
+\bPC(\p{Zs}+)'S\b	PC'S	1	1	1
+\bPc'(\p{Zs}+)s\b	Pc's	1	1	1
+\bpc'(\p{Zs}+)s\b	pc's	1	1	1
+\bPC'(\p{Zs}+)S\b	PC'S	1	1	1
+\bPc’(\p{Zs}+)s\b	Pc’s	1	1	1
+\bpc’(\p{Zs}+)s\b	pc’s	1	1	1
+\bPC’(\p{Zs}+)S\b	PC’S	1	1	1
+\bPeople(\p{Zs}+)'(\p{Zs}+)s\b	People's	1	1	1
+\bpeople(\p{Zs}+)'(\p{Zs}+)s\b	people's	1	1	1
+\bPEOPLE(\p{Zs}+)'(\p{Zs}+)S\b	PEOPLE'S	1	1	1
+\bPeople(\p{Zs}+)’(\p{Zs}+)s\b	People’s	1	1	1
+\bpeople(\p{Zs}+)’(\p{Zs}+)s\b	people’s	1	1	1
+\bPEOPLE(\p{Zs}+)’(\p{Zs}+)S\b	PEOPLE’S	1	1	1
+\bPeople(\p{Zs}+)’s\b	People’s	1	1	1
+\bpeople(\p{Zs}+)’s\b	people’s	1	1	1
+\bPEOPLE(\p{Zs}+)’S\b	PEOPLE’S	1	1	1
+\bPeople(\p{Zs}+)'s\b	People's	1	1	1
+\bpeople(\p{Zs}+)'s\b	people's	1	1	1
+\bPEOPLE(\p{Zs}+)'S\b	PEOPLE'S	1	1	1
+\bPeople'(\p{Zs}+)s\b	People's	1	1	1
+\bpeople'(\p{Zs}+)s\b	people's	1	1	1
+\bPEOPLE'(\p{Zs}+)S\b	PEOPLE'S	1	1	1
+\bPeople’(\p{Zs}+)s\b	People’s	1	1	1
+\bpeople’(\p{Zs}+)s\b	people’s	1	1	1
+\bPEOPLE’(\p{Zs}+)S\b	PEOPLE’S	1	1	1
+\bPerson(\p{Zs}+)'(\p{Zs}+)s\b	Person's	1	1	1
+\bperson(\p{Zs}+)'(\p{Zs}+)s\b	person's	1	1	1
+\bPERSON(\p{Zs}+)'(\p{Zs}+)S\b	PERSON'S	1	1	1
+\bPerson(\p{Zs}+)’(\p{Zs}+)s\b	Person’s	1	1	1
+\bperson(\p{Zs}+)’(\p{Zs}+)s\b	person’s	1	1	1
+\bPERSON(\p{Zs}+)’(\p{Zs}+)S\b	PERSON’S	1	1	1
+\bPerson(\p{Zs}+)’s\b	Person’s	1	1	1
+\bperson(\p{Zs}+)’s\b	person’s	1	1	1
+\bPERSON(\p{Zs}+)’S\b	PERSON’S	1	1	1
+\bPerson(\p{Zs}+)'s\b	Person's	1	1	1
+\bperson(\p{Zs}+)'s\b	person's	1	1	1
+\bPERSON(\p{Zs}+)'S\b	PERSON'S	1	1	1
+\bPerson'(\p{Zs}+)s\b	Person's	1	1	1
+\bperson'(\p{Zs}+)s\b	person's	1	1	1
+\bPERSON'(\p{Zs}+)S\b	PERSON'S	1	1	1
+\bPerson’(\p{Zs}+)s\b	Person’s	1	1	1
+\bperson’(\p{Zs}+)s\b	person’s	1	1	1
+\bPERSON’(\p{Zs}+)S\b	PERSON’S	1	1	1
+\bPete(\p{Zs}+)'(\p{Zs}+)s\b	Pete's	1	1	1
+\bPETE(\p{Zs}+)'(\p{Zs}+)S\b	PETE'S	1	1	1
+\bpete(\p{Zs}+)'(\p{Zs}+)s\b	Pete's	1	1	1
+\bPete(\p{Zs}+)’(\p{Zs}+)s\b	Pete’s	1	1	1
+\bPETE(\p{Zs}+)’(\p{Zs}+)S\b	PETE’S	1	1	1
+\bpete(\p{Zs}+)’(\p{Zs}+)s\b	Pete’s	1	1	1
+\bPete(\p{Zs}+)’s\b	Pete’s	1	1	1
+\bPETE(\p{Zs}+)’S\b	PETE’S	1	1	1
+\bpete(\p{Zs}+)’s\b	Pete’s	1	1	1
+\bPete(\p{Zs}+)'s\b	Pete's	1	1	1
+\bPETE(\p{Zs}+)'S\b	PETE'S	1	1	1
+\bpete(\p{Zs}+)'s\b	Pete's	1	1	1
+\bPete'(\p{Zs}+)s\b	Pete's	1	1	1
+\bPETE'(\p{Zs}+)S\b	PETE'S	1	1	1
+\bpete'(\p{Zs}+)s\b	Pete's	1	1	1
+\bPete’(\p{Zs}+)s\b	Pete’s	1	1	1
+\bPETE’(\p{Zs}+)S\b	PETE’S	1	1	1
+\bpete’(\p{Zs}+)s\b	Pete’s	1	1	1
+\bPreclear(\p{Zs}+)'(\p{Zs}+)s\b	Preclear's	1	1	1
+\bPRECLEAR(\p{Zs}+)'(\p{Zs}+)S\b	PRECLEAR'S	1	1	1
+\bpreclear(\p{Zs}+)'(\p{Zs}+)s\b	preclear's	1	1	1
+\bPreclear(\p{Zs}+)’(\p{Zs}+)s\b	Preclear’s	1	1	1
+\bPRECLEAR(\p{Zs}+)’(\p{Zs}+)S\b	PRECLEAR’S	1	1	1
+\bpreclear(\p{Zs}+)’(\p{Zs}+)s\b	preclear’s	1	1	1
+\bPreclear(\p{Zs}+)’s\b	Preclear’s	1	1	1
+\bPRECLEAR(\p{Zs}+)’S\b	PRECLEAR’S	1	1	1
+\bpreclear(\p{Zs}+)’s\b	preclear’s	1	1	1
+\bPreclear(\p{Zs}+)'s\b	Preclear's	1	1	1
+\bPRECLEAR(\p{Zs}+)'S\b	PRECLEAR'S	1	1	1
+\bpreclear(\p{Zs}+)'s\b	preclear's	1	1	1
+\bPreclear'(\p{Zs}+)s\b	Preclear's	1	1	1
+\bPRECLEAR'(\p{Zs}+)S\b	PRECLEAR'S	1	1	1
+\bpreclear'(\p{Zs}+)s\b	preclear's	1	1	1
+\bPreclear’(\p{Zs}+)s\b	Preclear’s	1	1	1
+\bPRECLEAR’(\p{Zs}+)S\b	PRECLEAR’S	1	1	1
+\bpreclear’(\p{Zs}+)s\b	preclear’s	1	1	1
+\bRoom(\p{Zs}+)'(\p{Zs}+)s\b	Room's	1	1	1
+\bROOM(\p{Zs}+)'(\p{Zs}+)S\b	ROOM'S	1	1	1
+\broom(\p{Zs}+)'(\p{Zs}+)s\b	room's	1	1	1
+\bRoom(\p{Zs}+)’(\p{Zs}+)s\b	Room’s	1	1	1
+\bROOM(\p{Zs}+)’(\p{Zs}+)S\b	ROOM’S	1	1	1
+\broom(\p{Zs}+)’(\p{Zs}+)s\b	room’s	1	1	1
+\bRoom(\p{Zs}+)’s\b	Room’s	1	1	1
+\bROOM(\p{Zs}+)’S\b	ROOM’S	1	1	1
+\broom(\p{Zs}+)’s\b	room’s	1	1	1
+\bRoom(\p{Zs}+)'s\b	Room's	1	1	1
+\bROOM(\p{Zs}+)'S\b	ROOM'S	1	1	1
+\broom(\p{Zs}+)'s\b	room's	1	1	1
+\bRoom'(\p{Zs}+)s\b	Room's	1	1	1
+\bROOM'(\p{Zs}+)S\b	ROOM'S	1	1	1
+\broom'(\p{Zs}+)s\b	room's	1	1	1
+\bRoom’(\p{Zs}+)s\b	Room’s	1	1	1
+\bROOM’(\p{Zs}+)S\b	ROOM’S	1	1	1
+\broom’(\p{Zs}+)s\b	room’s	1	1	1
+\bShan(\p{Zs}+)'(\p{Zs}+)t\b	Shan't	1	1	1
+\bSHAN(\p{Zs}+)'(\p{Zs}+)T\b	SHAN'T	1	1	1
+\bshan(\p{Zs}+)'(\p{Zs}+)t\b	shan't	1	1	1
+\bShan(\p{Zs}+)’(\p{Zs}+)t\b	Shan’t	1	1	1
+\bSHAN(\p{Zs}+)’(\p{Zs}+)T\b	SHAN’T	1	1	1
+\bshan(\p{Zs}+)’(\p{Zs}+)t\b	shan’t	1	1	1
+\bShan(\p{Zs}+)’t\b	Shan’t	1	1	1
+\bSHAN(\p{Zs}+)’T\b	SHAN’T	1	1	1
+\bshan(\p{Zs}+)’t\b	shan’t	1	1	1
+\bShan(\p{Zs}+)'t\b	Shan't	1	1	1
+\bSHAN(\p{Zs}+)'T\b	SHAN'T	1	1	1
+\bshan(\p{Zs}+)'t\b	shan't	1	1	1
+\bShan'(\p{Zs}+)t\b	Shan't	1	1	1
+\bSHAN'(\p{Zs}+)T\b	SHAN'T	1	1	1
+\bshan'(\p{Zs}+)t\b	shan't	1	1	1
+\bShan’(\p{Zs}+)t\b	Shan’t	1	1	1
+\bSHAN’(\p{Zs}+)T\b	SHAN’T	1	1	1
+\bshan’(\p{Zs}+)t\b	shan’t	1	1	1
+\bShe(\p{Zs}+)'(\p{Zs}+)d\b	She'd	1	1	1
+\bSHE(\p{Zs}+)'(\p{Zs}+)D\b	SHE'D	1	1	1
+\bshe(\p{Zs}+)'(\p{Zs}+)d\b	she'd	1	1	1
+\bShe(\p{Zs}+)'(\p{Zs}+)ll\b	She'll	1	1	1
+\bSHE(\p{Zs}+)'(\p{Zs}+)LL\b	SHE'LL	1	1	1
+\bshe(\p{Zs}+)'(\p{Zs}+)ll\b	she'll	1	1	1
+\bShe(\p{Zs}+)'(\p{Zs}+)s\b	She's	1	1	1
+\bSHE(\p{Zs}+)'(\p{Zs}+)S\b	SHE'S	1	1	1
+\bshe(\p{Zs}+)'(\p{Zs}+)s\b	she's	1	1	1
+\bShe(\p{Zs}+)’(\p{Zs}+)d\b	She’d	1	1	1
+\bSHE(\p{Zs}+)’(\p{Zs}+)D\b	SHE’D	1	1	1
+\bshe(\p{Zs}+)’(\p{Zs}+)d\b	she’d	1	1	1
+\bShe(\p{Zs}+)’(\p{Zs}+)ll\b	She’ll	1	1	1
+\bSHE(\p{Zs}+)’(\p{Zs}+)LL\b	SHE’LL	1	1	1
+\bshe(\p{Zs}+)’(\p{Zs}+)ll\b	she’ll	1	1	1
+\bShe(\p{Zs}+)’(\p{Zs}+)s\b	She’s	1	1	1
+\bSHE(\p{Zs}+)’(\p{Zs}+)S\b	SHE’S	1	1	1
+\bshe(\p{Zs}+)’(\p{Zs}+)s\b	she’s	1	1	1
+\bShe(\p{Zs}+)’d\b	She’d	1	1	1
+\bSHE(\p{Zs}+)’D\b	SHE’D	1	1	1
+\bshe(\p{Zs}+)’d\b	she’d	1	1	1
+\bShe(\p{Zs}+)’ll\b	She’ll	1	1	1
+\bSHE(\p{Zs}+)’LL\b	SHE’LL	1	1	1
+\bshe(\p{Zs}+)’ll\b	she’ll	1	1	1
+\bShe(\p{Zs}+)’s\b	She’s	1	1	1
+\bSHE(\p{Zs}+)’S\b	SHE’S	1	1	1
+\bshe(\p{Zs}+)’s\b	she’s	1	1	1
+\bShe(\p{Zs}+)'d\b	She'd	1	1	1
+\bSHE(\p{Zs}+)'D\b	SHE'D	1	1	1
+\bshe(\p{Zs}+)'d\b	she'd	1	1	1
+\bShe'(\p{Zs}+)d\b	She'd	1	1	1
+\bSHE'(\p{Zs}+)D\b	SHE'D	1	1	1
+\bshe'(\p{Zs}+)d\b	she'd	1	1	1
+\bShe(\p{Zs}+)'ll\b	She'll	1	1	1
+\bSHE(\p{Zs}+)'LL\b	SHE'LL	1	1	1
+\bshe(\p{Zs}+)'ll\b	she'll	1	1	1
+\bShe'(\p{Zs}+)ll\b	She'll	1	1	1
+\bSHE'(\p{Zs}+)LL\b	SHE'LL	1	1	1
+\bshe'(\p{Zs}+)ll\b	she'll	1	1	1
+\bShe(\p{Zs}+)'s\b	She's	1	1	1
+\bSHE(\p{Zs}+)'S\b	SHE'S	1	1	1
+\bshe(\p{Zs}+)'s\b	she's	1	1	1
+\bShe'(\p{Zs}+)s\b	She's	1	1	1
+\bSHE'(\p{Zs}+)S\b	SHE'S	1	1	1
+\bshe'(\p{Zs}+)s\b	she's	1	1	1
+\bShe’(\p{Zs}+)d\b	She’d	1	1	1
+\bSHE’(\p{Zs}+)D\b	SHE’D	1	1	1
+\bshe’(\p{Zs}+)d\b	she’d	1	1	1
+\bShe’(\p{Zs}+)ll\b	She’ll	1	1	1
+\bSHE’(\p{Zs}+)LL\b	SHE’LL	1	1	1
+\bshe’(\p{Zs}+)ll\b	she’ll	1	1	1
+\bShe’(\p{Zs}+)s\b	She’s	1	1	1
+\bSHE’(\p{Zs}+)S\b	SHE’S	1	1	1
+\bshe’(\p{Zs}+)s\b	she’s	1	1	1
+\bShouldn(\p{Zs}+)'(\p{Zs}+)t\b	Shouldn't	1	1	1
+\bSHOULDN(\p{Zs}+)'(\p{Zs}+)T\b	SHOULDN'T	1	1	1
+\bshouldn(\p{Zs}+)'(\p{Zs}+)t\b	shouldn't	1	1	1
+\bShouldn(\p{Zs}+)’(\p{Zs}+)t\b	Shouldn’t	1	1	1
+\bSHOULDN(\p{Zs}+)’(\p{Zs}+)T\b	SHOULDN’T	1	1	1
+\bshouldn(\p{Zs}+)’(\p{Zs}+)t\b	shouldn’t	1	1	1
+\bShouldn(\p{Zs}+)’t\b	Shouldn’t	1	1	1
+\bSHOULDN(\p{Zs}+)’T\b	SHOULDN’T	1	1	1
+\bshouldn(\p{Zs}+)’t\b	shouldn’t	1	1	1
+\bShouldn(\p{Zs}+)'t\b	Shouldn't	1	1	1
+\bSHOULDN(\p{Zs}+)'T\b	SHOULDN'T	1	1	1
+\bshouldn(\p{Zs}+)'t\b	shouldn't	1	1	1
+\bShouldn'(\p{Zs}+)t\b	Shouldn't	1	1	1
+\bSHOULDN'(\p{Zs}+)T\b	SHOULDN'T	1	1	1
+\bshouldn'(\p{Zs}+)t\b	shouldn't	1	1	1
+\bShouldn’(\p{Zs}+)t\b	Shouldn’t	1	1	1
+\bSHOULDN’(\p{Zs}+)T\b	SHOULDN’T	1	1	1
+\bshouldn’(\p{Zs}+)t\b	shouldn’t	1	1	1
+\bSomebody(\p{Zs}+)'(\p{Zs}+)s\b	Somebody's	1	1	1
+\bsomebody(\p{Zs}+)'(\p{Zs}+)s\b	somebody's	1	1	1
+\bSOMEBODY(\p{Zs}+)'(\p{Zs}+)S\b	SOMEBODY'S	1	1	1
+\bSomebody(\p{Zs}+)’(\p{Zs}+)s\b	Somebody’s	1	1	1
+\bsomebody(\p{Zs}+)’(\p{Zs}+)s\b	somebody’s	1	1	1
+\bSOMEBODY(\p{Zs}+)’(\p{Zs}+)S\b	SOMEBODY’S	1	1	1
+\bSomebody(\p{Zs}+)’s\b	Somebody’s	1	1	1
+\bsomebody(\p{Zs}+)’s\b	somebody’s	1	1	1
+\bSOMEBODY(\p{Zs}+)’S\b	SOMEBODY’S	1	1	1
+\bSomebody(\p{Zs}+)'s\b	Somebody's	1	1	1
+\bsomebody(\p{Zs}+)'s\b	somebody's	1	1	1
+\bSOMEBODY(\p{Zs}+)'S\b	SOMEBODY'S	1	1	1
+\bSomebody'(\p{Zs}+)s\b	Somebody's	1	1	1
+\bsomebody'(\p{Zs}+)s\b	somebody's	1	1	1
+\bSOMEBODY'(\p{Zs}+)S\b	SOMEBODY'S	1	1	1
+\bSomebody’(\p{Zs}+)s\b	Somebody’s	1	1	1
+\bsomebody’(\p{Zs}+)s\b	somebody’s	1	1	1
+\bSOMEBODY’(\p{Zs}+)S\b	SOMEBODY’S	1	1	1
+\bThat(\p{Zs}+)'(\p{Zs}+)s\b	That's	1	1	1
+\bthat(\p{Zs}+)'(\p{Zs}+)s\b	that's	1	1	1
+\bTHAT(\p{Zs}+)'(\p{Zs}+)S\b	THAT'S	1	1	1
+\bThat(\p{Zs}+)’(\p{Zs}+)s\b	That’s	1	1	1
+\bthat(\p{Zs}+)’(\p{Zs}+)s\b	that’s	1	1	1
+\bTHAT(\p{Zs}+)’(\p{Zs}+)S\b	THAT’S	1	1	1
+\bThat(\p{Zs}+)’s\b	That’s	1	1	1
+\bthat(\p{Zs}+)’s\b	that’s	1	1	1
+\bTHAT(\p{Zs}+)’S\b	THAT’S	1	1	1
+\bThat(\p{Zs}+)'s\b	That's	1	1	1
+\bthat(\p{Zs}+)'s\b	that's	1	1	1
+\bTHAT(\p{Zs}+)'S\b	THAT'S	1	1	1
+\bThat'(\p{Zs}+)s\b	That's	1	1	1
+\bthat'(\p{Zs}+)s\b	that's	1	1	1
+\bTHAT'(\p{Zs}+)S\b	THAT'S	1	1	1
+\bThat’(\p{Zs}+)s\b	That’s	1	1	1
+\bthat’(\p{Zs}+)s\b	that’s	1	1	1
+\bTHAT’(\p{Zs}+)S\b	THAT’S	1	1	1
+\bThere(\p{Zs}+)'(\p{Zs}+)d\b	There'd	1	1	1
+\bthere(\p{Zs}+)'(\p{Zs}+)d\b	there'd	1	1	1
+\bTHERE(\p{Zs}+)'(\p{Zs}+)D\b	THERE'D	1	1	1
+\bThere(\p{Zs}+)'(\p{Zs}+)ll\b	There'll	1	1	1
+\bthere(\p{Zs}+)'(\p{Zs}+)ll\b	there'll	1	1	1
+\bTHERE(\p{Zs}+)'(\p{Zs}+)LL\b	THERE'LL	1	1	1
+\bThere(\p{Zs}+)'(\p{Zs}+)re\b	There're	1	1	1
+\bthere(\p{Zs}+)'(\p{Zs}+)re\b	there're	1	1	1
+\bTHERE(\p{Zs}+)'(\p{Zs}+)RE\b	THERE'RE	1	1	1
+\bThere(\p{Zs}+)'(\p{Zs}+)s\b	There's	1	1	1
+\bthere(\p{Zs}+)'(\p{Zs}+)s\b	there's	1	1	1
+\bTHERE(\p{Zs}+)'(\p{Zs}+)S\b	THERE'S	1	1	1
+\bThere(\p{Zs}+)'(\p{Zs}+)ve\b	There've	1	1	1
+\bthere(\p{Zs}+)'(\p{Zs}+)ve\b	there've	1	1	1
+\bTHERE(\p{Zs}+)'(\p{Zs}+)VE\b	THERE'VE	1	1	1
+\bThere(\p{Zs}+)’(\p{Zs}+)d\b	There’d	1	1	1
+\bthere(\p{Zs}+)’(\p{Zs}+)d\b	there’d	1	1	1
+\bTHERE(\p{Zs}+)’(\p{Zs}+)D\b	THERE’D	1	1	1
+\bThere(\p{Zs}+)’(\p{Zs}+)ll\b	There’ll	1	1	1
+\bthere(\p{Zs}+)’(\p{Zs}+)ll\b	there’ll	1	1	1
+\bTHERE(\p{Zs}+)’(\p{Zs}+)LL\b	THERE’LL	1	1	1
+\bThere(\p{Zs}+)’(\p{Zs}+)re\b	There’re	1	1	1
+\bthere(\p{Zs}+)’(\p{Zs}+)re\b	there’re	1	1	1
+\bTHERE(\p{Zs}+)’(\p{Zs}+)RE\b	THERE’RE	1	1	1
+\bThere(\p{Zs}+)’(\p{Zs}+)s\b	There’s	1	1	1
+\bthere(\p{Zs}+)’(\p{Zs}+)s\b	there’s	1	1	1
+\bTHERE(\p{Zs}+)’(\p{Zs}+)S\b	THERE’S	1	1	1
+\bThere(\p{Zs}+)’(\p{Zs}+)ve\b	There’ve	1	1	1
+\bthere(\p{Zs}+)’(\p{Zs}+)ve\b	there’ve	1	1	1
+\bTHERE(\p{Zs}+)’(\p{Zs}+)VE\b	THERE’VE	1	1	1
+\bThere(\p{Zs}+)’d\b	There’d	1	1	1
+\bthere(\p{Zs}+)’d\b	there’d	1	1	1
+\bTHERE(\p{Zs}+)’D\b	THERE’D	1	1	1
+\bThere(\p{Zs}+)’ll\b	There’ll	1	1	1
+\bthere(\p{Zs}+)’ll\b	there’ll	1	1	1
+\bTHERE(\p{Zs}+)’LL\b	THERE’LL	1	1	1
+\bThere(\p{Zs}+)’re\b	There’re	1	1	1
+\bthere(\p{Zs}+)’re\b	there’re	1	1	1
+\bTHERE(\p{Zs}+)’RE\b	THERE’RE	1	1	1
+\bThere(\p{Zs}+)’s\b	There’s	1	1	1
+\bthere(\p{Zs}+)’s\b	there’s	1	1	1
+\bTHERE(\p{Zs}+)’S\b	THERE’S	1	1	1
+\bThere(\p{Zs}+)’ve\b	There’ve	1	1	1
+\bthere(\p{Zs}+)’ve\b	there’ve	1	1	1
+\bTHERE(\p{Zs}+)’VE\b	THERE’VE	1	1	1
+\bThere(\p{Zs}+)'d\b	There'd	1	1	1
+\bthere(\p{Zs}+)'d\b	there'd	1	1	1
+\bTHERE(\p{Zs}+)'D\b	THERE'D	1	1	1
+\bThere'(\p{Zs}+)d\b	There'd	1	1	1
+\bthere'(\p{Zs}+)d\b	there'd	1	1	1
+\bTHERE'(\p{Zs}+)D\b	THERE'D	1	1	1
+\bThere(\p{Zs}+)'ll\b	There'll	1	1	1
+\bthere(\p{Zs}+)'ll\b	there'll	1	1	1
+\bTHERE(\p{Zs}+)'LL\b	THERE'LL	1	1	1
+\bThere'(\p{Zs}+)ll\b	There'll	1	1	1
+\bthere'(\p{Zs}+)ll\b	there'll	1	1	1
+\bTHERE'(\p{Zs}+)LL\b	THERE'LL	1	1	1
+\bThere(\p{Zs}+)'re\b	There're	1	1	1
+\bthere(\p{Zs}+)'re\b	there're	1	1	1
+\bTHERE(\p{Zs}+)'RE\b	THERE'RE	1	1	1
+\bThere'(\p{Zs}+)re\b	There're	1	1	1
+\bthere'(\p{Zs}+)re\b	there're	1	1	1
+\bTHERE'(\p{Zs}+)RE\b	THERE'RE	1	1	1
+\bThere(\p{Zs}+)'s\b	There's	1	1	1
+\bthere(\p{Zs}+)'s\b	there's	1	1	1
+\bTHERE(\p{Zs}+)'S\b	THERE'S	1	1	1
+\bThere'(\p{Zs}+)s\b	There's	1	1	1
+\bthere'(\p{Zs}+)s\b	there's	1	1	1
+\bTHERE'(\p{Zs}+)S\b	THERE'S	1	1	1
+\bThere(\p{Zs}+)'ve\b	There've	1	1	1
+\bthere(\p{Zs}+)'ve\b	there've	1	1	1
+\bTHERE(\p{Zs}+)'VE\b	THERE'VE	1	1	1
+\bThere'(\p{Zs}+)ve\b	There've	1	1	1
+\bthere'(\p{Zs}+)ve\b	there've	1	1	1
+\bTHERE'(\p{Zs}+)VE\b	THERE'VE	1	1	1
+\bThere’(\p{Zs}+)d\b	There’d	1	1	1
+\bthere’(\p{Zs}+)d\b	there’d	1	1	1
+\bTHERE’(\p{Zs}+)D\b	THERE’D	1	1	1
+\bThere’(\p{Zs}+)ll\b	There’ll	1	1	1
+\bthere’(\p{Zs}+)ll\b	there’ll	1	1	1
+\bTHERE’(\p{Zs}+)LL\b	THERE’LL	1	1	1
+\bThere’(\p{Zs}+)re\b	There’re	1	1	1
+\bthere’(\p{Zs}+)re\b	there’re	1	1	1
+\bTHERE’(\p{Zs}+)RE\b	THERE’RE	1	1	1
+\bThere’(\p{Zs}+)s\b	There’s	1	1	1
+\bthere’(\p{Zs}+)s\b	there’s	1	1	1
+\bTHERE’(\p{Zs}+)S\b	THERE’S	1	1	1
+\bThere’(\p{Zs}+)ve\b	There’ve	1	1	1
+\bthere’(\p{Zs}+)ve\b	there’ve	1	1	1
+\bTHERE’(\p{Zs}+)VE\b	THERE’VE	1	1	1
+\bThey(\p{Zs}+)'(\p{Zs}+)d\b	They'd	1	1	1
+\bTHEY(\p{Zs}+)'(\p{Zs}+)D\b	THEY'D	1	1	1
+\bthey(\p{Zs}+)'(\p{Zs}+)d\b	they'd	1	1	1
+\bThey(\p{Zs}+)'(\p{Zs}+)ll\b	They'll	1	1	1
+\bTHEY(\p{Zs}+)'(\p{Zs}+)LL\b	THEY'LL	1	1	1
+\bthey(\p{Zs}+)'(\p{Zs}+)ll\b	they'll	1	1	1
+\bThey(\p{Zs}+)'(\p{Zs}+)re\b	They're	1	1	1
+\bTHEY(\p{Zs}+)'(\p{Zs}+)RE\b	THEY'RE	1	1	1
+\bthey(\p{Zs}+)'(\p{Zs}+)re\b	they're	1	1	1
+\bThey(\p{Zs}+)'(\p{Zs}+)ve\b	They've	1	1	1
+\bTHEY(\p{Zs}+)'(\p{Zs}+)VE\b	THEY'VE	1	1	1
+\bthey(\p{Zs}+)'(\p{Zs}+)ve\b	they've	1	1	1
+\bThey(\p{Zs}+)’(\p{Zs}+)d\b	They’d	1	1	1
+\bTHEY(\p{Zs}+)’(\p{Zs}+)D\b	THEY’D	1	1	1
+\bthey(\p{Zs}+)’(\p{Zs}+)d\b	they’d	1	1	1
+\bThey(\p{Zs}+)’(\p{Zs}+)ll\b	They’ll	1	1	1
+\bTHEY(\p{Zs}+)’(\p{Zs}+)LL\b	THEY’LL	1	1	1
+\bthey(\p{Zs}+)’(\p{Zs}+)ll\b	they’ll	1	1	1
+\bThey(\p{Zs}+)’(\p{Zs}+)re\b	They’re	1	1	1
+\bTHEY(\p{Zs}+)’(\p{Zs}+)RE\b	THEY’RE	1	1	1
+\bthey(\p{Zs}+)’(\p{Zs}+)re\b	they’re	1	1	1
+\bThey(\p{Zs}+)’(\p{Zs}+)ve\b	They’ve	1	1	1
+\bTHEY(\p{Zs}+)’(\p{Zs}+)VE\b	THEY’VE	1	1	1
+\bthey(\p{Zs}+)’(\p{Zs}+)ve\b	they’ve	1	1	1
+\bThey(\p{Zs}+)’d\b	They’d	1	1	1
+\bTHEY(\p{Zs}+)’D\b	THEY’D	1	1	1
+\bthey(\p{Zs}+)’d\b	they’d	1	1	1
+\bThey(\p{Zs}+)’ll\b	They’ll	1	1	1
+\bTHEY(\p{Zs}+)’LL\b	THEY’LL	1	1	1
+\bthey(\p{Zs}+)’ll\b	they’ll	1	1	1
+\bThey(\p{Zs}+)’re\b	They’re	1	1	1
+\bTHEY(\p{Zs}+)’RE\b	THEY’RE	1	1	1
+\bthey(\p{Zs}+)’re\b	they’re	1	1	1
+\bThey(\p{Zs}+)’ve\b	They’ve	1	1	1
+\bTHEY(\p{Zs}+)’VE\b	THEY’VE	1	1	1
+\bthey(\p{Zs}+)’ve\b	they’ve	1	1	1
+\bThey(\p{Zs}+)'d\b	They'd	1	1	1
+\bTHEY(\p{Zs}+)'D\b	THEY'D	1	1	1
+\bthey(\p{Zs}+)'d\b	they'd	1	1	1
+\bThey'(\p{Zs}+)d\b	They'd	1	1	1
+\bTHEY'(\p{Zs}+)D\b	THEY'D	1	1	1
+\bthey'(\p{Zs}+)d\b	they'd	1	1	1
+\bThey(\p{Zs}+)'ll\b	They'll	1	1	1
+\bTHEY(\p{Zs}+)'LL\b	THEY'LL	1	1	1
+\bthey(\p{Zs}+)'ll\b	they'll	1	1	1
+\bThey'(\p{Zs}+)ll\b	They'll	1	1	1
+\bTHEY'(\p{Zs}+)LL\b	THEY'LL	1	1	1
+\bthey'(\p{Zs}+)ll\b	they'll	1	1	1
+\bThey(\p{Zs}+)'re\b	They're	1	1	1
+\bTHEY(\p{Zs}+)'RE\b	THEY'RE	1	1	1
+\bthey(\p{Zs}+)'re\b	they're	1	1	1
+\bThey'(\p{Zs}+)re\b	They're	1	1	1
+\bTHEY'(\p{Zs}+)RE\b	THEY'RE	1	1	1
+\bthey'(\p{Zs}+)re\b	they're	1	1	1
+\bThey(\p{Zs}+)'ve\b	They've	1	1	1
+\bTHEY(\p{Zs}+)'VE\b	THEY'VE	1	1	1
+\bthey(\p{Zs}+)'ve\b	they've	1	1	1
+\bThey'(\p{Zs}+)ve\b	They've	1	1	1
+\bTHEY'(\p{Zs}+)VE\b	THEY'VE	1	1	1
+\bthey'(\p{Zs}+)ve\b	they've	1	1	1
+\bThey’(\p{Zs}+)d\b	They’d	1	1	1
+\bTHEY’(\p{Zs}+)D\b	THEY’D	1	1	1
+\bthey’(\p{Zs}+)d\b	they’d	1	1	1
+\bThey’(\p{Zs}+)ll\b	They’ll	1	1	1
+\bTHEY’(\p{Zs}+)LL\b	THEY’LL	1	1	1
+\bthey’(\p{Zs}+)ll\b	they’ll	1	1	1
+\bThey’(\p{Zs}+)re\b	They’re	1	1	1
+\bTHEY’(\p{Zs}+)RE\b	THEY’RE	1	1	1
+\bthey’(\p{Zs}+)re\b	they’re	1	1	1
+\bThey’(\p{Zs}+)ve\b	They’ve	1	1	1
+\bTHEY’(\p{Zs}+)VE\b	THEY’VE	1	1	1
+\bthey’(\p{Zs}+)ve\b	they’ve	1	1	1
+\bWall(\p{Zs}+)'(\p{Zs}+)s\b	Wall's	1	1	1
+\bWALL(\p{Zs}+)'(\p{Zs}+)S\b	WALL'S	1	1	1
+\bwall(\p{Zs}+)'(\p{Zs}+)s\b	wall's	1	1	1
+\bWall(\p{Zs}+)’(\p{Zs}+)s\b	Wall’s	1	1	1
+\bWALL(\p{Zs}+)’(\p{Zs}+)S\b	WALL’S	1	1	1
+\bwall(\p{Zs}+)’(\p{Zs}+)s\b	wall’s	1	1	1
+\bWall(\p{Zs}+)’s\b	Wall’s	1	1	1
+\bWALL(\p{Zs}+)’S\b	WALL’S	1	1	1
+\bwall(\p{Zs}+)’s\b	wall’s	1	1	1
+\bWall(\p{Zs}+)'s\b	Wall's	1	1	1
+\bWALL(\p{Zs}+)'S\b	WALL'S	1	1	1
+\bwall(\p{Zs}+)'s\b	wall's	1	1	1
+\bWall'(\p{Zs}+)s\b	Wall's	1	1	1
+\bWALL'(\p{Zs}+)S\b	WALL'S	1	1	1
+\bwall'(\p{Zs}+)s\b	wall's	1	1	1
+\bWall’(\p{Zs}+)s\b	Wall’s	1	1	1
+\bWALL’(\p{Zs}+)S\b	WALL’S	1	1	1
+\bwall’(\p{Zs}+)s\b	wall’s	1	1	1
+\bWasn(\p{Zs}+)'(\p{Zs}+)t\b	Wasn't	1	1	1
+\bWASN(\p{Zs}+)'(\p{Zs}+)T\b	WASN'T	1	1	1
+\bwasn(\p{Zs}+)'(\p{Zs}+)t\b	wasn't	1	1	1
+\bWasn(\p{Zs}+)’(\p{Zs}+)t\b	Wasn’t	1	1	1
+\bWASN(\p{Zs}+)’(\p{Zs}+)T\b	WASN’T	1	1	1
+\bwasn(\p{Zs}+)’(\p{Zs}+)t\b	wasn’t	1	1	1
+\bWasn(\p{Zs}+)’t\b	Wasn’t	1	1	1
+\bWASN(\p{Zs}+)’T\b	WASN’T	1	1	1
+\bwasn(\p{Zs}+)’t\b	wasn’t	1	1	1
+\bWasn(\p{Zs}+)'t\b	Wasn't	1	1	1
+\bWASN(\p{Zs}+)'T\b	WASN'T	1	1	1
+\bwasn(\p{Zs}+)'t\b	wasn't	1	1	1
+\bWasn'(\p{Zs}+)t\b	Wasn't	1	1	1
+\bWASN'(\p{Zs}+)T\b	WASN'T	1	1	1
+\bwasn'(\p{Zs}+)t\b	wasn't	1	1	1
+\bWasn’(\p{Zs}+)t\b	Wasn’t	1	1	1
+\bWASN’(\p{Zs}+)T\b	WASN’T	1	1	1
+\bwasn’(\p{Zs}+)t\b	wasn’t	1	1	1
+\bWe(\p{Zs}+)'(\p{Zs}+)d\b	We'd	1	1	1
+\bWE(\p{Zs}+)'(\p{Zs}+)D\b	WE'D	1	1	1
+\bwe(\p{Zs}+)'(\p{Zs}+)d\b	we'd	1	1	1
+\bWe(\p{Zs}+)'(\p{Zs}+)ll\b	We'll	1	1	1
+\bWE(\p{Zs}+)'(\p{Zs}+)LL\b	WE'LL	1	1	1
+\bwe(\p{Zs}+)'(\p{Zs}+)ll\b	we'll	1	1	1
+\bWe(\p{Zs}+)'(\p{Zs}+)re\b	We're	1	1	1
+\bWE(\p{Zs}+)'(\p{Zs}+)RE\b	WE'RE	1	1	1
+\bwe(\p{Zs}+)'(\p{Zs}+)re\b	we're	1	1	1
+\bWe(\p{Zs}+)'(\p{Zs}+)ve\b	We've	1	1	1
+\bWE(\p{Zs}+)'(\p{Zs}+)VE\b	WE'VE	1	1	1
+\bwe(\p{Zs}+)'(\p{Zs}+)ve\b	we've	1	1	1
+\bWe(\p{Zs}+)’(\p{Zs}+)d\b	We’d	1	1	1
+\bWE(\p{Zs}+)’(\p{Zs}+)D\b	WE’D	1	1	1
+\bwe(\p{Zs}+)’(\p{Zs}+)d\b	we’d	1	1	1
+\bWe(\p{Zs}+)’(\p{Zs}+)ll\b	We’ll	1	1	1
+\bWE(\p{Zs}+)’(\p{Zs}+)LL\b	WE’LL	1	1	1
+\bwe(\p{Zs}+)’(\p{Zs}+)ll\b	we’ll	1	1	1
+\bWe(\p{Zs}+)’(\p{Zs}+)re\b	We’re	1	1	1
+\bWE(\p{Zs}+)’(\p{Zs}+)RE\b	WE’RE	1	1	1
+\bwe(\p{Zs}+)’(\p{Zs}+)re\b	we’re	1	1	1
+\bWe(\p{Zs}+)’(\p{Zs}+)ve\b	We’ve	1	1	1
+\bWE(\p{Zs}+)’(\p{Zs}+)VE\b	WE’VE	1	1	1
+\bwe(\p{Zs}+)’(\p{Zs}+)ve\b	we’ve	1	1	1
+\bWe(\p{Zs}+)’d\b	We’d	1	1	1
+\bWE(\p{Zs}+)’D\b	WE’D	1	1	1
+\bwe(\p{Zs}+)’d\b	we’d	1	1	1
+\bWe(\p{Zs}+)’ll\b	We’ll	1	1	1
+\bWE(\p{Zs}+)’LL\b	WE’LL	1	1	1
+\bwe(\p{Zs}+)’ll\b	we’ll	1	1	1
+\bWe(\p{Zs}+)’re\b	We’re	1	1	1
+\bWE(\p{Zs}+)’RE\b	WE’RE	1	1	1
+\bwe(\p{Zs}+)’re\b	we’re	1	1	1
+\bWe(\p{Zs}+)’ve\b	We’ve	1	1	1
+\bWE(\p{Zs}+)’VE\b	WE’VE	1	1	1
+\bwe(\p{Zs}+)’ve\b	we’ve	1	1	1
+\bWe(\p{Zs}+)'d\b	We'd	1	1	1
+\bWE(\p{Zs}+)'D\b	WE'D	1	1	1
+\bwe(\p{Zs}+)'d\b	we'd	1	1	1
+\bWe'(\p{Zs}+)d\b	We'd	1	1	1
+\bWE'(\p{Zs}+)D\b	WE'D	1	1	1
+\bwe'(\p{Zs}+)d\b	we'd	1	1	1
+\bWe(\p{Zs}+)'ll\b	We'll	1	1	1
+\bWE(\p{Zs}+)'LL\b	WE'LL	1	1	1
+\bwe(\p{Zs}+)'ll\b	we'll	1	1	1
+\bWe'(\p{Zs}+)ll\b	We'll	1	1	1
+\bWE'(\p{Zs}+)LL\b	WE'LL	1	1	1
+\bwe'(\p{Zs}+)ll\b	we'll	1	1	1
+\bWe(\p{Zs}+)'re\b	We're	1	1	1
+\bWE(\p{Zs}+)'RE\b	WE'RE	1	1	1
+\bwe(\p{Zs}+)'re\b	we're	1	1	1
+\bWe'(\p{Zs}+)re\b	We're	1	1	1
+\bWE'(\p{Zs}+)RE\b	WE'RE	1	1	1
+\bwe'(\p{Zs}+)re\b	we're	1	1	1
+\bWe(\p{Zs}+)'ve\b	We've	1	1	1
+\bWE(\p{Zs}+)'VE\b	WE'VE	1	1	1
+\bwe(\p{Zs}+)'ve\b	we've	1	1	1
+\bWe'(\p{Zs}+)ve\b	We've	1	1	1
+\bWE'(\p{Zs}+)VE\b	WE'VE	1	1	1
+\bwe'(\p{Zs}+)ve\b	we've	1	1	1
+\bWe’(\p{Zs}+)d\b	We’d	1	1	1
+\bWE’(\p{Zs}+)D\b	WE’D	1	1	1
+\bwe’(\p{Zs}+)d\b	we’d	1	1	1
+\bWe’(\p{Zs}+)ll\b	We’ll	1	1	1
+\bWE’(\p{Zs}+)LL\b	WE’LL	1	1	1
+\bwe’(\p{Zs}+)ll\b	we’ll	1	1	1
+\bWe’(\p{Zs}+)re\b	We’re	1	1	1
+\bWE’(\p{Zs}+)RE\b	WE’RE	1	1	1
+\bwe’(\p{Zs}+)re\b	we’re	1	1	1
+\bWe’(\p{Zs}+)ve\b	We’ve	1	1	1
+\bWE’(\p{Zs}+)VE\b	WE’VE	1	1	1
+\bwe’(\p{Zs}+)ve\b	we’ve	1	1	1
+\bWebster(\p{Zs}+)'(\p{Zs}+)s\b	Webster's	1	1	1
+\bWEBSTER(\p{Zs}+)'(\p{Zs}+)S\b	WEBSTER'S	1	1	1
+\bwebster(\p{Zs}+)'(\p{Zs}+)s\b	webster's	1	1	1
+\bWebster(\p{Zs}+)’(\p{Zs}+)s\b	Webster’s	1	1	1
+\bWEBSTER(\p{Zs}+)’(\p{Zs}+)S\b	WEBSTER’S	1	1	1
+\bwebster(\p{Zs}+)’(\p{Zs}+)s\b	webster’s	1	1	1
+\bWebster(\p{Zs}+)’s\b	Webster’s	1	1	1
+\bWEBSTER(\p{Zs}+)’S\b	WEBSTER’S	1	1	1
+\bwebster(\p{Zs}+)’s\b	webster’s	1	1	1
+\bWebster(\p{Zs}+)'s\b	Webster's	1	1	1
+\bWEBSTER(\p{Zs}+)'S\b	WEBSTER'S	1	1	1
+\bwebster(\p{Zs}+)'s\b	webster's	1	1	1
+\bWebster'(\p{Zs}+)s\b	Webster's	1	1	1
+\bWEBSTER'(\p{Zs}+)S\b	WEBSTER'S	1	1	1
+\bwebster'(\p{Zs}+)s\b	webster's	1	1	1
+\bWebster’(\p{Zs}+)s\b	Webster’s	1	1	1
+\bWEBSTER’(\p{Zs}+)S\b	WEBSTER’S	1	1	1
+\bwebster’(\p{Zs}+)s\b	webster’s	1	1	1
+\bWeren(\p{Zs}+)'(\p{Zs}+)t\b	Weren't	1	1	1
+\bWEREN(\p{Zs}+)'(\p{Zs}+)T\b	WEREN'T	1	1	1
+\bweren(\p{Zs}+)'(\p{Zs}+)t\b	weren't	1	1	1
+\bWeren(\p{Zs}+)’(\p{Zs}+)t\b	Weren’t	1	1	1
+\bWEREN(\p{Zs}+)’(\p{Zs}+)T\b	WEREN’T	1	1	1
+\bweren(\p{Zs}+)’(\p{Zs}+)t\b	weren’t	1	1	1
+\bWeren(\p{Zs}+)’t\b	Weren’t	1	1	1
+\bWEREN(\p{Zs}+)’T\b	WEREN’T	1	1	1
+\bweren(\p{Zs}+)’t\b	weren’t	1	1	1
+\bWeren(\p{Zs}+)'t\b	Weren't	1	1	1
+\bWEREN(\p{Zs}+)'T\b	WEREN'T	1	1	1
+\bweren(\p{Zs}+)'t\b	weren't	1	1	1
+\bWeren'(\p{Zs}+)t\b	Weren't	1	1	1
+\bWEREN'(\p{Zs}+)T\b	WEREN'T	1	1	1
+\bweren'(\p{Zs}+)t\b	weren't	1	1	1
+\bWeren’(\p{Zs}+)t\b	Weren’t	1	1	1
+\bWEREN’(\p{Zs}+)T\b	WEREN’T	1	1	1
+\bweren’(\p{Zs}+)t\b	weren’t	1	1	1
+\bWhat(\p{Zs}+)'(\p{Zs}+)s\b	What's	1	1	1
+\bwhat(\p{Zs}+)'(\p{Zs}+)s\b	what's	1	1	1
+\bWHAT(\p{Zs}+)'(\p{Zs}+)S\b	WHAT'S	1	1	1
+\bWhat(\p{Zs}+)’(\p{Zs}+)s\b	What’s	1	1	1
+\bwhat(\p{Zs}+)’(\p{Zs}+)s\b	what’s	1	1	1
+\bWHAT(\p{Zs}+)’(\p{Zs}+)S\b	WHAT’S	1	1	1
+\bWHAT(\p{Zs}+)’S	WHAT’S	1	1	1
+\bWhat(\p{Zs}+)’s\b	What’s	1	1	1
+\bwhat(\p{Zs}+)’s\b	what’s	1	1	1
+\bWHAT(\p{Zs}+)'S	WHAT'S	1	1	1
+\bWhat(\p{Zs}+)'s\b	What's	1	1	1
+\bwhat(\p{Zs}+)'s\b	what's	1	1	1
+\bWhat'(\p{Zs}+)s\b	What's	1	1	1
+\bwhat'(\p{Zs}+)s\b	what's	1	1	1
+\bWHAT'(\p{Zs}+)S\b	WHAT'S	1	1	1
+\bWhat’(\p{Zs}+)s\b	What’s	1	1	1
+\bwhat’(\p{Zs}+)s\b	what’s	1	1	1
+\bWHAT’(\p{Zs}+)S\b	WHAT’S	1	1	1
+\bWhere(\p{Zs}+)'(\p{Zs}+)s\b	Where's	1	1	1
+\bwhere(\p{Zs}+)'(\p{Zs}+)s\b	where's	1	1	1
+\bWHERE(\p{Zs}+)'(\p{Zs}+)S\b	WHERE'S	1	1	1
+\bWhere(\p{Zs}+)’(\p{Zs}+)s\b	Where’s	1	1	1
+\bwhere(\p{Zs}+)’(\p{Zs}+)s\b	where’s	1	1	1
+\bWHERE(\p{Zs}+)’(\p{Zs}+)S\b	WHERE’S	1	1	1
+\bWhere(\p{Zs}+)’s\b	Where’s	1	1	1
+\bwhere(\p{Zs}+)’s\b	where’s	1	1	1
+\bWHERE(\p{Zs}+)’S\b	WHERE’S	1	1	1
+\bWhere(\p{Zs}+)'s\b	Where's	1	1	1
+\bwhere(\p{Zs}+)'s\b	where's	1	1	1
+\bWHERE(\p{Zs}+)'S\b	WHERE'S	1	1	1
+\bWhere'(\p{Zs}+)s\b	Where's	1	1	1
+\bwhere'(\p{Zs}+)s\b	where's	1	1	1
+\bWHERE'(\p{Zs}+)S\b	WHERE'S	1	1	1
+\bWhere’(\p{Zs}+)s\b	Where’s	1	1	1
+\bwhere’(\p{Zs}+)s\b	where’s	1	1	1
+\bWHERE’(\p{Zs}+)S\b	WHERE’S	1	1	1
+\bWho(\p{Zs}+)'(\p{Zs}+)d\b	Who'd	1	1	1
+\bWHO(\p{Zs}+)'(\p{Zs}+)D\b	WHO'D	1	1	1
+\bwho(\p{Zs}+)'(\p{Zs}+)d\b	who'd	1	1	1
+\bWho(\p{Zs}+)'(\p{Zs}+)s\b	Who's	1	1	1
+\bWHO(\p{Zs}+)'(\p{Zs}+)S\b	WHO'S	1	1	1
+\bwho(\p{Zs}+)'(\p{Zs}+)s\b	who's	1	1	1
+\bWho(\p{Zs}+)'(\p{Zs}+)ve\b	Who've	1	1	1
+\bwho(\p{Zs}+)'(\p{Zs}+)ve\b	who've	1	1	1
+\bWHO(\p{Zs}+)'(\p{Zs}+)VE\b	WHO'VE	1	1	1
+\bWho(\p{Zs}+)’(\p{Zs}+)d\b	Who’d	1	1	1
+\bWHO(\p{Zs}+)’(\p{Zs}+)D\b	WHO’D	1	1	1
+\bwho(\p{Zs}+)’(\p{Zs}+)d\b	who’d	1	1	1
+\bWho(\p{Zs}+)’(\p{Zs}+)s\b	Who’s	1	1	1
+\bWHO(\p{Zs}+)’(\p{Zs}+)S\b	WHO’S	1	1	1
+\bwho(\p{Zs}+)’(\p{Zs}+)s\b	who’s	1	1	1
+\bWho(\p{Zs}+)’(\p{Zs}+)ve\b	Who’ve	1	1	1
+\bwho(\p{Zs}+)’(\p{Zs}+)ve\b	who’ve	1	1	1
+\bWHO(\p{Zs}+)’(\p{Zs}+)VE\b	WHO’VE	1	1	1
+\bWho(\p{Zs}+)’d\b	Who’d	1	1	1
+\bWHO(\p{Zs}+)’D\b	WHO’D	1	1	1
+\bwho(\p{Zs}+)’d\b	who’d	1	1	1
+\bWho(\p{Zs}+)’s\b	Who’s	1	1	1
+\bWHO(\p{Zs}+)’S\b	WHO’S	1	1	1
+\bwho(\p{Zs}+)’s\b	who’s	1	1	1
+\bWho(\p{Zs}+)’ve\b	Who’ve	1	1	1
+\bwho(\p{Zs}+)’ve\b	who’ve	1	1	1
+\bWHO(\p{Zs}+)’VE\b	WHO’VE	1	1	1
+\bWho(\p{Zs}+)'d\b	Who'd	1	1	1
+\bWHO(\p{Zs}+)'D\b	WHO'D	1	1	1
+\bwho(\p{Zs}+)'d\b	who'd	1	1	1
+\bWho'(\p{Zs}+)d\b	Who'd	1	1	1
+\bWHO'(\p{Zs}+)D\b	WHO'D	1	1	1
+\bwho'(\p{Zs}+)d\b	who'd	1	1	1
+\bWho(\p{Zs}+)'s\b	Who's	1	1	1
+\bWHO(\p{Zs}+)'S\b	WHO'S	1	1	1
+\bwho(\p{Zs}+)'s\b	who's	1	1	1
+\bWho'(\p{Zs}+)s\b	Who's	1	1	1
+\bWHO'(\p{Zs}+)S\b	WHO'S	1	1	1
+\bwho'(\p{Zs}+)s\b	who's	1	1	1
+\bWho(\p{Zs}+)'ve\b	Who've	1	1	1
+\bwho(\p{Zs}+)'ve\b	who've	1	1	1
+\bWHO(\p{Zs}+)'VE\b	WHO'VE	1	1	1
+\bWho'(\p{Zs}+)ve\b	Who've	1	1	1
+\bwho'(\p{Zs}+)ve\b	who've	1	1	1
+\bWHO'(\p{Zs}+)VE\b	WHO'VE	1	1	1
+\bWho’(\p{Zs}+)d\b	Who’d	1	1	1
+\bWHO’(\p{Zs}+)D\b	WHO’D	1	1	1
+\bwho’(\p{Zs}+)d\b	who’d	1	1	1
+\bWho’(\p{Zs}+)s\b	Who’s	1	1	1
+\bWHO’(\p{Zs}+)S\b	WHO’S	1	1	1
+\bwho’(\p{Zs}+)s\b	who’s	1	1	1
+\bWho’(\p{Zs}+)ve\b	Who’ve	1	1	1
+\bwho’(\p{Zs}+)ve\b	who’ve	1	1	1
+\bWHO’(\p{Zs}+)VE\b	WHO’VE	1	1	1
+\bWon(\p{Zs}+)'(\p{Zs}+)t\b	Won't	1	1	1
+\bWON(\p{Zs}+)'(\p{Zs}+)T\b	WON'T	1	1	1
+\bwon(\p{Zs}+)'(\p{Zs}+)t\b	won't	1	1	1
+\bWon(\p{Zs}+)’(\p{Zs}+)t\b	Won’t	1	1	1
+\bWON(\p{Zs}+)’(\p{Zs}+)T\b	WON’T	1	1	1
+\bwon(\p{Zs}+)’(\p{Zs}+)t\b	won’t	1	1	1
+\bWon(\p{Zs}+)’t\b	Won’t	1	1	1
+\bWON(\p{Zs}+)’T\b	WON’T	1	1	1
+\bwon(\p{Zs}+)’t\b	won’t	1	1	1
+\bWon(\p{Zs}+)'t\b	Won't	1	1	1
+\bWON(\p{Zs}+)'T\b	WON'T	1	1	1
+\bwon(\p{Zs}+)'t\b	won't	1	1	1
+\bWon'(\p{Zs}+)t\b	Won't	1	1	1
+\bWON'(\p{Zs}+)T\b	WON'T	1	1	1
+\bwon'(\p{Zs}+)t\b	won't	1	1	1
+\bWon’(\p{Zs}+)t\b	Won’t	1	1	1
+\bWON’(\p{Zs}+)T\b	WON’T	1	1	1
+\bwon’(\p{Zs}+)t\b	won’t	1	1	1
+\bWould(\p{Zs}+)'(\p{Zs}+)ve\b	Would've	1	1	1
+\bWOULD(\p{Zs}+)'(\p{Zs}+)VE\b	WOULD'VE	1	1	1
+\bwould(\p{Zs}+)'(\p{Zs}+)ve\b	would've	1	1	1
+\bWould(\p{Zs}+)’(\p{Zs}+)ve\b	Would’ve	1	1	1
+\bWOULD(\p{Zs}+)’(\p{Zs}+)VE\b	WOULD’VE	1	1	1
+\bwould(\p{Zs}+)’(\p{Zs}+)ve\b	would’ve	1	1	1
+\bWould(\p{Zs}+)’ve\b	Would’ve	1	1	1
+\bWOULD(\p{Zs}+)’VE\b	WOULD’VE	1	1	1
+\bwould(\p{Zs}+)’ve\b	would’ve	1	1	1
+\bWould(\p{Zs}+)'ve\b	Would've	1	1	1
+\bWOULD(\p{Zs}+)'VE\b	WOULD'VE	1	1	1
+\bwould(\p{Zs}+)'ve\b	would've	1	1	1
+\bWould'(\p{Zs}+)ve\b	Would've	1	1	1
+\bWOULD'(\p{Zs}+)VE\b	WOULD'VE	1	1	1
+\bwould'(\p{Zs}+)ve\b	would've	1	1	1
+\bWould’(\p{Zs}+)ve\b	Would’ve	1	1	1
+\bWOULD’(\p{Zs}+)VE\b	WOULD’VE	1	1	1
+\bwould’(\p{Zs}+)ve\b	would’ve	1	1	1
+\bWouldn(\p{Zs}+)'(\p{Zs}+)t\b	Wouldn't	1	1	1
+\bWOULDN(\p{Zs}+)'(\p{Zs}+)T\b	WOULDN'T	1	1	1
+\bwouldn(\p{Zs}+)'(\p{Zs}+)t\b	wouldn't	1	1	1
+\bWouldn(\p{Zs}+)’(\p{Zs}+)t\b	Wouldn’t	1	1	1
+\bWOULDN(\p{Zs}+)’(\p{Zs}+)T\b	WOULDN’T	1	1	1
+\bwouldn(\p{Zs}+)’(\p{Zs}+)t\b	wouldn’t	1	1	1
+\bWouldn(\p{Zs}+)’t\b	Wouldn’t	1	1	1
+\bWOULDN(\p{Zs}+)’T\b	WOULDN’T	1	1	1
+\bwouldn(\p{Zs}+)’t\b	wouldn’t	1	1	1
+\bWouldn(\p{Zs}+)'t\b	Wouldn't	1	1	1
+\bWOULDN(\p{Zs}+)'T\b	WOULDN'T	1	1	1
+\bwouldn(\p{Zs}+)'t\b	wouldn't	1	1	1
+\bWouldn'(\p{Zs}+)t\b	Wouldn't	1	1	1
+\bWOULDN'(\p{Zs}+)T\b	WOULDN'T	1	1	1
+\bwouldn'(\p{Zs}+)t\b	wouldn't	1	1	1
+\bWouldn’(\p{Zs}+)t\b	Wouldn’t	1	1	1
+\bWOULDN’(\p{Zs}+)T\b	WOULDN’T	1	1	1
+\bwouldn’(\p{Zs}+)t\b	wouldn’t	1	1	1
+\bY(\p{Zs}+)ou\b	You	1	1	1
+\by(\p{Zs}+)ou\b	you	1	1	1
+\bY(\p{Zs}+)OU\b	YOU	1	1	1
+\bYou(\p{Zs}+)'(\p{Zs}+)d\b	You'd	1	1	1
+\bYOU(\p{Zs}+)'(\p{Zs}+)D\b	YOU'D	1	1	1
+\byou(\p{Zs}+)'(\p{Zs}+)d\b	you'd	1	1	1
+\bYou(\p{Zs}+)'(\p{Zs}+)ll\b	You'll	1	1	1
+\bYOU(\p{Zs}+)'(\p{Zs}+)LL\b	YOU'LL	1	1	1
+\byou(\p{Zs}+)'(\p{Zs}+)ll\b	you'll	1	1	1
+\bYou(\p{Zs}+)'(\p{Zs}+)re\b	You're	1	1	1
+\bYOU(\p{Zs}+)'(\p{Zs}+)RE\b	YOU'RE	1	1	1
+\byou(\p{Zs}+)'(\p{Zs}+)re\b	you're	1	1	1
+\bYou(\p{Zs}+)'(\p{Zs}+)ve\b	You've	1	1	1
+\bYOU(\p{Zs}+)'(\p{Zs}+)VE\b	YOU'VE	1	1	1
+\byou(\p{Zs}+)'(\p{Zs}+)ve\b	you've	1	1	1
+\bYou(\p{Zs}+)’(\p{Zs}+)d\b	You’d	1	1	1
+\bYOU(\p{Zs}+)’(\p{Zs}+)D\b	YOU’D	1	1	1
+\byou(\p{Zs}+)’(\p{Zs}+)d\b	you’d	1	1	1
+\bYou(\p{Zs}+)’(\p{Zs}+)ll\b	You’ll	1	1	1
+\bYOU(\p{Zs}+)’(\p{Zs}+)LL\b	YOU’LL	1	1	1
+\byou(\p{Zs}+)’(\p{Zs}+)ll\b	you’ll	1	1	1
+\bYou(\p{Zs}+)’(\p{Zs}+)re\b	You’re	1	1	1
+\bYOU(\p{Zs}+)’(\p{Zs}+)RE\b	YOU’RE	1	1	1
+\byou(\p{Zs}+)’(\p{Zs}+)re\b	you’re	1	1	1
+\bYou(\p{Zs}+)’(\p{Zs}+)ve\b	You’ve	1	1	1
+\bYOU(\p{Zs}+)’(\p{Zs}+)VE\b	YOU’VE	1	1	1
+\byou(\p{Zs}+)’(\p{Zs}+)ve\b	you’ve	1	1	1
+\bYou(\p{Zs}+)’d\b	You’d	1	1	1
+\bYOU(\p{Zs}+)’D\b	YOU’D	1	1	1
+\byou(\p{Zs}+)’d\b	you’d	1	1	1
+\bYou(\p{Zs}+)’ll\b	You’ll	1	1	1
+\bYOU(\p{Zs}+)’LL\b	YOU’LL	1	1	1
+\byou(\p{Zs}+)’ll\b	you’ll	1	1	1
+\bYou(\p{Zs}+)’re\b	You’re	1	1	1
+\bYOU(\p{Zs}+)’RE\b	YOU’RE	1	1	1
+\byou(\p{Zs}+)’re\b	you’re	1	1	1
+\bYou(\p{Zs}+)’ve\b	You’ve	1	1	1
+\bYOU(\p{Zs}+)’VE\b	YOU’VE	1	1	1
+\byou(\p{Zs}+)’ve\b	you’ve	1	1	1
+\bYou(\p{Zs}+)'d\b	You'd	1	1	1
+\bYOU(\p{Zs}+)'D\b	YOU'D	1	1	1
+\byou(\p{Zs}+)'d\b	you'd	1	1	1
+\bYou'(\p{Zs}+)d\b	You'd	1	1	1
+\bYOU'(\p{Zs}+)D\b	YOU'D	1	1	1
+\byou'(\p{Zs}+)d\b	you'd	1	1	1
+\bYou(\p{Zs}+)'ll\b	You'll	1	1	1
+\bYOU(\p{Zs}+)'LL\b	YOU'LL	1	1	1
+\byou(\p{Zs}+)'ll\b	you'll	1	1	1
+\bYou'(\p{Zs}+)ll\b	You'll	1	1	1
+\bYOU'(\p{Zs}+)LL\b	YOU'LL	1	1	1
+\byou'(\p{Zs}+)ll\b	you'll	1	1	1
+\bYou(\p{Zs}+)'re\b	You're	1	1	1
+\bYOU(\p{Zs}+)'RE\b	YOU'RE	1	1	1
+\byou(\p{Zs}+)'re\b	you're	1	1	1
+\bYou'(\p{Zs}+)re\b	You're	1	1	1
+\bYOU'(\p{Zs}+)RE\b	YOU'RE	1	1	1
+\byou'(\p{Zs}+)re\b	you're	1	1	1
+\bYou(\p{Zs}+)'ve\b	You've	1	1	1
+\bYOU(\p{Zs}+)'VE\b	YOU'VE	1	1	1
+\byou(\p{Zs}+)'ve\b	you've	1	1	1
+\bYou'(\p{Zs}+)ve\b	You've	1	1	1
+\bYOU'(\p{Zs}+)VE\b	YOU'VE	1	1	1
+\byou'(\p{Zs}+)ve\b	you've	1	1	1
+\bYou’(\p{Zs}+)d\b	You’d	1	1	1
+\bYOU’(\p{Zs}+)D\b	YOU’D	1	1	1
+\byou’(\p{Zs}+)d\b	you’d	1	1	1
+\bYou’(\p{Zs}+)ll\b	You’ll	1	1	1
+\bYOU’(\p{Zs}+)LL\b	YOU’LL	1	1	1
+\byou’(\p{Zs}+)ll\b	you’ll	1	1	1
+\bYou’(\p{Zs}+)re\b	You’re	1	1	1
+\bYOU’(\p{Zs}+)RE\b	YOU’RE	1	1	1
+\byou’(\p{Zs}+)re\b	you’re	1	1	1
+\bYou’(\p{Zs}+)ve\b	You’ve	1	1	1
+\bYOU’(\p{Zs}+)VE\b	YOU’VE	1	1	1
+\byou’(\p{Zs}+)ve\b	you’ve	1	1	1
